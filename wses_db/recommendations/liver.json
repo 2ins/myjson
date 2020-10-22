@@ -1,0 +1,281 @@
+{
+  "value":"LIVER TRAUMA\n",
+  "level":0,
+  "children":[
+    {
+      "value":"Diagnostic procedures",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"The diagnostic methods on admission are determined by the hemodynamic status",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"E-FAST is rapid in detecting intra-abdominal free fluid",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"CT scan with intravenous contrast is the gold standard in hemodynamically stable trauma patients",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Non-operative management (NOM)",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"NOM should be the treatment of choice for all hemodynamically stable minor (WSES I) (AAST I–II), moderate (WSES II) (AAST III), and severe (WSES III) (AAST IV–V) injuries in the absence of other internal injuries requiring surgery",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In patients considered transient responders with moderate (WSES II) (AAST III) and severe (WSES III) (AAST IV–V) injuries, NOM should be considered only in selected settings provided the immediate availability of trained surgeons, operating room, continuous monitoring ideally in an ICU or ER setting, access to angiography, angioembolization, blood and blood products, and in locations where a system exists to quickly transfer such patients to higher level of care facilities",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"A CT scan with intravenous contrast should always be performed in patients being considered for NOM",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"AG/AE may be considered as a first-line intervention in hemodynamically stable patients with arterial blush on CT  scan",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In hemodynamically stable children, the presence of contrast blush on CT scan is not an absolute indication for AG/AE",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Serial clinical evaluations (physical exams and laboratory testing) must be performed to detect a change in clinical status during NOM",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"NOM should be attempted in the setting of concomitant head trauma and/or spinal cord injuries with reliable clinical exam, unless the patient could not achieve specific hemodynamic goals for the neurotrauma and the instability might be due to intra-abdominal bleeding",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Intensive care unit admission in isolated liver injury may be required only for moderate (WSES II) (AAST III) and severe (WSES III) (AAST IV–V) lesions",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In selected cases where an intra-abdominal injury is suspected in the days after the initial trauma, interval laparoscopic exploration may be considered as an extension of NOM and a means to plan patient management  in a step-up treatment strategy",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In low-resource settings, NOM could be considered in patients with hemodynamic stability without evidence of  associated injuries, with negative serial physical examinations and negative imaging and blood tests",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Operative management (OM)",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Hemodynamically unstable and non-responder patients (WSES IV) should undergo OM",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Primary surgical intention should be to control the hemorrhage and bile leak and initiation of damage control  resuscitation as soon as possible",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Major hepatic resections should be avoided at first and only considered in subsequent operations, in a resectional  debridement fashion in cases of large areas of devitalized liver tissue done by experienced surgeons",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Angioembolization is a useful tool in case of persistent arterial bleeding after non-hemostatic or damage control  procedures",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Resuscitative endovascular balloon occlusion of the aorta (i.e., REBOA) may be used in hemodynamically unstable  patients as a bridge to other more definitive procedures for hemorrhage control",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Short- and long-term follow-up",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Intrahepatic abscesses may be successfully treated with percutaneous drainage",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Delayed hemorrhage without severe hemodynamic compromise may be managed at first with AG/AE",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Hepatic artery pseudoaneurysm should be managed with AG/AE to prevent rupture",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Symptomatic or infected bilomas should be managed with percutaneous drainage",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Combination of percutaneous drainage and endoscopic techniques may be considered in managing post-traumatic biliary complications not suitable for percutaneous management alone",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"lavage/drainage and endoscopic stenting may be considered as the first approach in delayed post-traumatic biliary fistula without any other indication for laparotomy",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Laparoscopy as initial approach should be considered in cases of delayed surgery, so as to minimize the invasiveness of surgical intervention and to tailor the procedure to the lesion",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Thrombo-prophylaxis, feeding, and mobilization",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Mechanical prophylaxis is safe and should be considered in all patients with no absolute contraindication",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"LMWH-based prophylaxis should be started as soon as possible following trauma and may be safe in selected patients with liver injury treated with NOM",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In those patients taking anticoagulants, individualization of the risk-benefit balance of anticoagulant reversal is suggested",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Early mobilization should be achieved in stable patients",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In the absence of contraindications, enteral feeding should be started as soon as possible",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        }
+      ]
+    }
+  ]
+}

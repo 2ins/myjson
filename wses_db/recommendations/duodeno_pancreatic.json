@@ -1,0 +1,454 @@
+{
+  "value":"Duodeno-pancreatic and extrahepatic biliary tree trauma\n",
+  "level":0,
+  "children":[
+    {
+      "value":"Diagnostic procedures",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Management of pediatric patients with duodenal-pancreatic trauma requires specific skills; only trauma centers should take care of this cohort of patients.",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"The choice of diagnostic technique at admission must be based on the hemodynamic status.",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"E-FAST is rapid, repeatable, and effective for detecting free fluid and solid organ injury.",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Ultrasonography is not recommended to routinely diagnose duodeno-pancreatic trauma. Contrast-enhanced ultrasonography may have a diagnostic role in stable trauma patients with suspected pancreatic injury.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Repeated and combined measurement of serum amylase and lipase levels, starting from 3 to 6 h after the initial injury, is a useful tool to support clinical evaluation in suspicion of pancreatic injury. Elevated and/or increasing levels of serum amylase and lipase, in absence of definitive diagnosis, are indications for more accurate investigation.",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Serial clinical examination is an important part of follow-up after biliary and pancreatic-duodenal trauma.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"CT-scan with intravenous contrast is essential in diagnosing duodeno-pancreatic injuries in hemodynamically stable or stabilized trauma patients.",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Administration of oral contrast material does not improve intravenous contrast-enhanced CT-scan sensitivity in detecting duodeno-pancreatic injuries.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"A repeat CT-scan within 12–24 h from the initial injury should be considered in hemodynamically stable patients with high clinical suspicion for duodeno-pancreatic injury or pancreatic ductal injury with negative CT-scan or non-specific CT findings on admission imaging, and/or elevated amylase and lipase, or persistent abdominal pain.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Magnetic resonance cholangiopancreatography (MRCP) can be considered a second-line non-invasive diagnostic modality to definitely rule out pancreatic parenchymal and pancreatic ductal injuries. It should be considered for the diagnosis of suspected biliary injuries when performed with hepatobiliary contrast.",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In pediatric patients and pregnant women, to detect pancreatic parenchymal or pancreatic duct lesions, MRI is preferred if available in the emergency setting.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In adult and pediatric patients, the risks associated with the radiation burden of CT should be balanced against the potential complications that may occur with a missed injury when alternative diagnostic modalities for pancreaticoduodenal injury are not available.",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Abdominal plain films using water-soluble contrast in the early trauma scenario are not recommended.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Hepatobiliary scintigraphy is not recommended for detection of biliary leak in patients with suspected gallbladder and biliary injuries in the trauma setting.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Diagnostic peritoneal lavage does not improve the specificity of diagnosing duodeno-pancreatic injury. It is sensitive but not specific for biliary tract injury.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Exploratory laparotomy is indicated in hemodynamically unstable (WSES class IV) patients with a positive E-FAST.",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"During surgical exploration of patients with abdominal trauma, the duodeno-pancreatic complex must be exposed and explored.",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"During exploratory laparotomy, when biliary injury is suspected but not identified, an intraoperative cholangiogram is strongly recommended.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In patients who are clinically suspected of having duodenal-pancreatic injuries, and are deteriorating clinically, if the imaging is equivocal, a diagnostic laparotomy should be performed.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In suspected pancreatic duct and extrahepatic biliary tree injuries in hemodynamically stable or stabilized adults and pediatric patients, endoscopic retrograde cholangiopancreatography (ERCP) can be used for both diagnosis and treatment even in the early phase after trauma.",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Non-operative management (NOM)",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Hemodynamic stability is the key factor in determining management strategy.",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Duodenum",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Hemodynamically unstable (WSES class IV) patients should not be considered for NOM.",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"NOM can be considered for hemodynamically stable or stabilized patients with duodenal wall hematomas (WSES class I–II, AAST-OIS grade I–II) in the absence of other abdominal organ injuries requiring surgery.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Patients with progressive symptoms or worsening findings on repeat imaging should be considered failures of NOM.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Hematomas initially treated with NOM should be considered for operative management if duodenal obstruction has not resolved within 14 days.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Pancreas, biliary tree",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"NOM should be the treatment of choice for all hemodynamically stable or stabilized minor PI WSES class I (AAST grade I and some grade II) and gallbladder hematomas without perforation WSES class I (AAST grade I) in the absence of other abdominal injuries requiring surgery.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Location of WSES class II (AAST grade III) PI is the primary determinant of treatment modality in hemodynamically stable adult patients.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"NOM may be considered only in selected hemodynamically stable or stabilized patients with WSES class II (AAST grade III) very proximal pancreatic body injuries in the absence of other abdominal injuries requiring surgery and only in higher level trauma centers; success of NOM may be increased with utilization of endoscopic and percutaneous interventions.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Optimal management of hemodynamically stable or stabilized patients with WSES class III (AAST grade IV) PI is controversial. NOM management augmented by endoscopic or percutaneous interventions may be used in selected patients.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"NOM of WSES class III (AAST grade IV) injuries should be considered only in an environment that provides around the clock capability for patient intensive monitoring, an immediately available endoscopy and interventional radiology suite, OR, and only in patients with stable or stabilized hemodynamic and absence of other abdominal injuries requiring surgery",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Sequelae of PI such as pancreatic fistulae and pseudocysts can frequently be addressed with image-guided percutaneous drain placement, endoscopic stenting, internal drainage, and endoscopic cyst-gastrostomy or cyst-jejunostomy.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Operative management (OM)",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Hemodynamically unstable (WSES class IV) patients and those with peritonitis or bowel evisceration or impalement should undergo immediate operative intervention.",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Duodenum",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Damage control techniques should be considered in hemodynamically unstable patients with DI, particularly those with associated injuries and physiologic derangement.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Primary repair of DI should be considered whenever technically possible regardless of grade of injury.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Ancillary procedures such as pyloric exclusion with and without gastrojejunostomy and biliary diversion may be considered in WSES class III or higher DI (AAST grades III, IV, and V).",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Lesions requiring pancreaticoduodenectomy (Whipple procedure) are often accompanied by severe associated injuries and shock. Damage control techniques and staged reconstruction in subsequent phases performed by experienced surgeons should be considered",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Pancreas, biliary tree",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"In WSES class I (AAST grade I and some grade II) PI found during exploratory laparotomy, drainage may be considered",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Patients with distal WSES class II (AAST grade III) PI should undergo OM.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Distal pancreatectomy (with or without splenectomy) is the procedure of choice for distal WSES class II (AAST grade III) PI.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Pancreatoduodenectomy may be needed in patients with destructive injuries of the duodenal-pancreatic complex. In such cases, the operation has better results when performed in a staged fashion. Pancreato-jejunostomy or pancreato-gastrostomy reconstructions are equally effective in selected cases performed by experienced surgeons.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In extrahepatic biliary tree WSES class I injuries (AAST grade I, II, and III) with laceration, perforation, or avulsion of the gallbladder, cholecystectomy is the treatment of choice.",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"EHBT injuries undergoing an initial damage control procedure may be drained with delayed reconstruction performed as a staged approach.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"EHBT WSES class II–III (AAST grades IV and V) injuries should undergo reconstruction with hepaticojejunostomy or choledochojejunostomy if there is no associated vascular injury.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"NOM failure of EHBT WSES class II–III (AAST grades IV and V) injuries, hepaticojejunostomy should be considered during reconstruction.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Short and long-term follow-up",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"After discharge, the necessity for follow-up imaging should be driven by clinical symptoms (i.e., onset of abdominal distention, tenderness, fever, vomiting, jaundice).",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In adults, CT-scan is usually the first-line follow-up imaging tool for new-onset signs and symptoms.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In pregnant females, the MRCP should be considered the diagnostic modality of choice for new-onset signs and symptoms, wherever available.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In pediatric patients, ultrasound or contrast-enhanced US should be the diagnostic modality of choice for follow-up imaging. If cross-sectional imaging is required, MRI is preferred.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Given the complexity and variability of traumatic injuries, the need for and choice of follow-up imaging should be made using a multidisciplinary approach.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "value":"management of severe acute pancreatitis\n",
+  "level":0,
+  "children":[
+    {
+      "value":"Diagnosis",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"1 Which are the criteria to establish the diagnosis of severe acute pancreatitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Severe acute pancreatitis is associated with persistent organ failure (cardiovascular, respiratory, and/or renal), and high mortality. Both new classification systems, Revised Atlanta Classification and Determinant-based Classification of Acute Pancreatitis Severity, are similar in establishing the diagnosis and severity of acute pancreatitis",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2. Patients who have persistent organ failure with infected necrosis have the highest risk of death",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"3. Patients with organ failures should be admitted to an intensive care unit whenever possible",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"2 What is the appropriate imaging work-up in case of suspected severe acute pancreatitis? What is the role of magnetic resonance imaging (MRI), com- puted tomography (CT) scan, ultrasound (US), endoscopic ultrasound (EUS), and other ancillary tests?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. On admission, ultrasound (US) should be performed to determine the etiology of acute pancreatitis (biliary)",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2. When doubt exists, computed tomography (CT) provides good evidence of the presence or absence of pancreatitis",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"3. All patients with severe acute pancreatitis need to be assessed with contrast-enhanced computed tomography (CE-CT) or magnetic resonance imaging (MRI). Optimal timing for first the CE-CT assessment is 72–96 h after onset of symptoms",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"4. Magnetic resonance cholangiopancreatography (MRCP) or endoscopic ultrasound should be considered to screen for occult common bile duct stones in patients with unknown etiology",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"3. Which laboratory parameters should be considered in the diagnostic process?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. The cut-off value of serum amylase and lipase is normally defined to be three times the upper limit.",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2. C-reactive Protein level ≥ 150 mg/l at third day can be used as a prognostic factor for severe acute pancreatitis",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"3. Hematocrit > 44% represents an independent risk factor of pancreatic necrosis",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"4. Urea > 20 mg/dl represents itself as an independent predictor of mortality",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"5. Procalcitonin is the most sensitive laboratory test for detection of pancreatic infection, and low serum values appear to be strong negative predictors of infected necrosis",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"6. In the absence of gallstones or significant history of alcohol use, serum triglyceride and calcium levels should be measured. Serum triglyceride levels over 11.3 mmol/l (1000 mg/dl) indicate it as the etiology",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"4. How do different etiologies affect the diagnostic workup?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. In idiopathic pancreatitis, biliary etiology should be ruled out with two ultrasound examinations, and if needed MRCP and/or endoscopic ultrasound EUS, to prevent recurrent pancreatitis",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"5. Which scores are indicated for risk assessment?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. There are no “gold standard” prognostic score for predicting severe acute pancreatitis. Probably the bedside index of severity of acute pancreatitis (BISAP) score is one of the most accurate and applicable in everyday clinical practice because of the simplicity and the capability to predict severity, death, and organ failure as well as the APACHE-II (very complex) and other scores",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"6. What is the timing and the suitable test for early follow-up imaging?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. In severe acute pancreatitis (computed tomography severity index ≥ 3), a follow-up CECT scan is indicated 7–10 days from the initial CT scan",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2. Additional CE-CT scans are recommended only if clinical status deteriorates or fails to show continued improvement, or when invasive intervention is considered",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Antibiotic treatment",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"1. Which are the indications for an antimicrobial therapy in case of severe acute pancreatitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Recent evidences have shown that prophylactic antibiotics in patients with acute pancreatitis are not associated with a significant decrease in mortality or morbidity. Thus, routine prophylactic antibiotics are no longer recommended for all patients with acute pancreatitis",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"2. Is antibiotic prophylaxis effective in sterile severe acute pancreatitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Antibiotics are always recommended to treat infected severe acute pancreatitis. However the diagnosis is challenging due to the clinical picture that cannot be distinguished from other infectious complications or from the inflammatory status caused by acute pancreatitis",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2. Serum measurements of procalcitonin (PCT) may be valuable in predicting the risk of developing infected pancreatic necrosis",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"3. A CT-guided fine-needle aspiration (FNA) for Gram stain and culture can confirm an infected severe acute pancreatitis and drive antibiotic therapy but is no longer in routine use",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"3. What is the correct timing to introduce an antimicrobial therapy? Which antimicrobial regimen should be used? What is the correct duration of antimicrobial therapy?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. In patients with infected necrosis, antibiotics known to penetrate pancreatic necrosis should be used",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2. In patients with infected necrosis, the spectrum of empirical antibiotic regimen should include both aerobic and anaerobic Gram-negative and Grampositive microorganisms. Routine prophylactic administration of antifungal is not recommended in patients with infected acute pancreatitis, although Candida spp. are common in patients with infected pancreatic necrosis and indicate patients with a higher risk of mortality",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Intensive care unit",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"1. Which are the indications for intensive care unit (ICU) admission?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Continuous vital signs monitoring in high dependency care unit is needed if organ dysfunction occurs. Persistent organ dysfunction or organ failure occurrence despite adequate fluid resuscitation is an indication for ICU admission",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"2. When is fluid resuscitation indicated and which fluid should be used? What is the optimal fluid infusion rate and response measurement for initial resuscitation? What is the preferred pharmacologic approach to persistent shock?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Early fluid resuscitation is indicated to optimize tissue perfusion targets, without waiting for hemodynamic worsening. Fluid administration should be guided by frequent reassessment of the hemodynamic status, since fluid overload is known to have detrimental effects. Isotonic crystalloids are the preferred fluid",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"3. What is the correct approach for pain control?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. No evidence or recommendation about any restriction in pain medication is available. Nonsteroidal anti-inflammatory drugs (NSAID) should be avoided in acute kidney injury (AKI). Epidural analgesia should be an alternative or an agonist with intravenous analgesia, in a multimodal approach. Patient-controlled analgesia (PCA) should be integrated with every described strategy.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"4. Which are the indications for mechanical ventilation?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Mechanical ventilation must be instituted if oxygen supply, even with high flow nasal oxygen, or continuous positive airway pressure became ineffective in correcting tachypnea and dyspnea. Both non-invasive and invasive techniques can be used, but invasive ventilation is mandatory when bronchial secretions clearance start to be ineffective and/or the patient is tiring of predicted to tire. Lung-protective strategies should be used when invasive ventilation is needed",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"5. What is the medical approach to the abdominal compartment syndrome?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"#Statement (increased intra-abdominal pressure)",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"1. Limitation of sedation, fluids, and vasoactive drugs to achieve resuscitative goals at lower normal limits is suggested. Deep sedation and paralysis can be necessary to limit intra-abdominal hypertension if all other nonoperative treatments including percutaneous drainage of intraperitoneal fluid are insufficient, before performing surgical abdominal decompression",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"6. What is the role of medications such as Gabexate Mesilate and somatostatin analogues?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"#Statement (pharmacological treatment)",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"1. No specific pharmacological treatment except for organ support and nutrition should be given",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"7. Enteral nutrition: which are the indications, what type of nutrition should be used, and which is the best way to administer enteral nutrition?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Enteral nutrition is recommended to prevent gut failure and infectious complications. Total parenteral nutrition (TPN) should be avoided but partial parenteral nutrition integration should be considered to reach caloric and protein requirements if enteral route is not completely tolerated. Both gastric and jejunal feeding can be delivered safely",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Surgical and operative management",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"1. Which are the indications for emergent ERCP in case of severe acute pancreatitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Routine ERCP with acute gallstone pancreatitis is not indicated (grade 1A).",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2. ERCP in patients with acute gallstone pancreatitis and cholangitis is indicated (grade 1B).",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"3. ERCP in acute gallstone pancreatitis with common bile duct obstruction is indicated (grade 2B).",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"4. ERCP in patients with predicted severe acute gallstone pancreatitis without cholangitis or common bile duct obstruction cannot be recommended at this time (grade 2B).",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"2. Which is the correct operative/surgical strategy in severe acute pancreatitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"3. Which are the indications for percutaneous/ endoscopic drainage of pancreatic collections (i.e., sterile necrosis, infected necrosis, others)?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Clinical deterioration with signs or strong suspicion of infected necrotizing pancreatitis is an indication to perform intervention (percutaneous/endoscopic drainage)After 4 weeks after the onset of the disease:\\n– On-going organ failure without sign of infected necrosis\\n– On-going gastric outlet, biliary, or intestinal obstruction due to a large walled off necrotic collection\\n– Disconnected duct syndrome\\n – Symptomatic or growing pseudocyst\\n After 8 weeks after the onset of the disease:\\n– On-going pain and/or discomfort (grade 1C)",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"4. Which are the indications for surgical intervention?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"The following are indications for surgical intervention:\\n– As a continuum in a step-up approach after percu- taneous/endoscopic procedure with the same indications\\n– Abdominal compartment syndrome\\n– Acute on-going bleeding when endovascular approach is unsuccessful\\n– Bowel ischaemia or acute necrotizing cholecystitis during acute pancreatitis\\n– Bowel fistula extending into a peripancreatic collection (grade 1C)",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"5. What is the timing for surgery and what is the laparotomy, intraperitoneal vs. extraperitoneal, early vs. delayed)?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"timing of surgery",
+              "level":3,
+              "gor":"None",
+              "children":[
+                {
+                  "value":"1. Postponing surgical interventions for more than 4 weeks after the onset of the disease results in less mortality",
+                  "level":4,
+                  "gor":"_2B",
+                  "children":[
+
+                  ]
+                }
+              ]
+            },
+            {
+              "value":"surgical strategy",
+              "level":3,
+              "gor":"None",
+              "children":[
+                {
+                  "value":"1. In infected pancreatic necrosis, percutaneous drainage as the first line of treatment (step-up approach) delays the surgical treatment to a more favorable time or even results in complete resolution of infection in 25–60% of patients and it is recommended as the first line of treatment",
+                  "level":4,
+                  "gor":"_1A",
+                  "children":[
+
+                  ]
+                },
+                {
+                  "value":"2. Minimally invasive surgical strategies, such as transgastric endoscopic necrosectomy or video-assisted retroperitoneal debridement (VARD), result in less postoperative new-onset organ failure but require more interventions",
+                  "level":4,
+                  "gor":"_1B",
+                  "children":[
+
+                  ]
+                },
+                {
+                  "value":"3. Considering mortality, there is insufficient evidence to support open surgical, mini-invasive, or endoscopic approach",
+                  "level":4,
+                  "gor":"_1B",
+                  "children":[
+
+                  ]
+                },
+                {
+                  "value":"4. In selected cases with walled-off necrosis and in patients with disconnected pancreatic duct, a singlestage surgical transgastric necrosectomy is an option",
+                  "level":4,
+                  "gor":"_2C",
+                  "children":[
+
+                  ]
+                },
+                {
+                  "value":"5. A multidisciplinary group of experts should individualize surgical treatment taking local expertize into account",
+                  "level":4,
+                  "gor":"_2C",
+                  "children":[
+
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "value":"6. When is cholecystectomy recommended and what is the correct timing?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Laparoscopic cholecystectomy during index admission is recommended in mild acute gallstone pancreatitis",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2. When ERCP and sphincterotomy are performed during the index admission, the risk for recurrent pancreatitis is diminished, but same admission cholecystectomy is still advised since there is an increased risk for other biliary complications",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"3. In acute gallstone pancreatitis with peripancreatic fluid collections, cholecystectomy should be deferred until fluid collections resolve or stabilize and acute inflammation ceases",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Open abdomen",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"1. Which are the indications for open abdomen in case of severe acute pancreatitis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. In patients with severe acute pancreatitis unresponsive to conservative management of IAH/ ACS, surgical decompression and use of open abdomen are effective in treating the abdominal compartment syndrome",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2. We suggest that clinicians should be cautious not to over-resuscitate patients with early SAP and measure intra-abdominal pressure regularly",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"3. We suggest that the open abdomen (OA) be avoided if other strategies can be used to mitigate or treat severe intra-abdominal hypertension in SAP",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"4. We recommend not to utilize the OA after necrosectomy for SAP (unless severe IAH mandates OA as a mandatory procedure)",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"5. We recommend not to debride or undertake early necrosectomy if forced to undertake an early OA due abdominal compartment syndrome or visceral ischemia",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"2. What is the best temporary abdominal closure system for open abdomen?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. We recommend the use of negative pressure peritoneal therapy for OA management",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2. We suggest fascial traction be added to NPWT methods",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"3. We suggest that further controlled studies be conducted on intra-peritoneal osmotic therapies in SAP (no recommendation)",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"3. What is the correct timing for dressing changes?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Open abdomen re-exploration should be conducted no later than 24–48 h after the index and any subsequent operation, with the duration from the previous operation shortening with increasing degrees of patient non-improvement and hemodynamic instability",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"4. What is the correct timing for abdominal closure?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1. Early fascial and/or abdominal definitive closure should be the strategy for management of the open abdomen once any requirements for on-going resuscitation have ceased, the source control has been definitively reached, no concern regarding intestinal viability persist, no further surgical re-exploration is needed, and there are no concerns for abdominal compartment syndrome",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

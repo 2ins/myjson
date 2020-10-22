@@ -1,0 +1,527 @@
+{
+  "value":"recommendations for the management of skin and soft-tissue infections \n",
+  "level":0,
+  "children":[
+    {
+      "value":"How should SSTIs be classified?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"The term “skin and soft-tissue infections” describes a wide heterogeneity of clinical conditions. We recommend that the necrotizing or non-necrotizing character of the infection, the anatomical extension, the characteristics of the infection (purulent or not purulent), and the clinical condition of the patient should be always assessed independently to classify patients with soft-tissue infections",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is new in the prevention of SSIs? What are the principles of SSI prevention?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Recent global guidelines for the prevention of SSIs can support healthcare workers to develop or strengthen infection prevention and control programs, with a focus on surgical safety, as well as antimicrobial resistance action plans. We recommend that all healthcare workers adopt these evidence-based recommendations in their clinical practice",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the best treatment of incisional SSIs? When are antibiotics needed?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Incisional SSIs require prompt and wide opening of the surgical incision. We recommend antibiotic therapy for incisional SSIs with any Systemic Inflammatory Response Syndrome criteria or signs of organ failure such as hypotension, oliguria, decreased mental alertness, or in immunocompromised patients",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the appropriate treatment of superficial infections (impetigo, erysipelas and cellulitis, and superficial abscesses)?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"We recommend that impetigo, erysipelas, and cellulitis should be managed by antibiotics against Gram-positive bacteria",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Empiric therapy for community-acquired MRSA (CA-MRSA) should be recommended for patients at risk for CA-MRSA or who do not respond to first line therapy",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Incision and drainage is the primary treatment for simple abscesses or boils. We recommend not to use antibiotics for simple abscesses or boils",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the appropriate treatment of complex abscesses (perianal and perirectal, and abscesses in intravenous drug injection sites)?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Complex skin and subcutaneous abscesses are typically well circumscribed and respond to incision and drainage. We recommend antibiotic therapy if systemic signs of infection are present, in immunocompromised patients, if source control is incomplete or in cases of abscess with significant cellulitis",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"We recommend empiric broad-spectrum antibiotic therapy with coverage of Gram-positive, Gram-negative, and anaerobic bacteria",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the appropriate treatment of infections developing in damaged skin (burn wounds, animal and human bites, and pressure ulcers)?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Irrigation of the wound and debridement of necrotic tissue are the most important factors in the prevention of infection and can substantially decrease the incidence of invasive wound infection. Antibiotic prophylaxis is not generally recommended",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"For patients with systemic signs of infection, compromised immune status, severe comorbidities, associated severe cellulitis, severe and deep wounds, a broad-spectrum antibiotic effective against aerobic, and anaerobic organisms is always required",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"When to administer antibiotics for MRSA in cSSTI?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"We recommend to administer antibiotics directed against MRSA as an adjunct to incision and drainage based on local epidemiology (area with more than 20% of MRSA in invasive hospital isolates or high circulation of MRSA in the community), specific risk factors for MRSA, and clinical conditions",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What oral antibiotics can be used for the management of MRSA skin and soft-tissue infections (SSTIs)? What intravenous antibiotics can be used for the management of MRSA skin and soft-tissue infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"For oral antibiotic coverage of MRSA in patients with SSTI, we suggest the following agents: linezolid",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"For intravenous (IV) antibiotic coverage of MRSA in patients with SSTI, we suggest the following agents: daptomycin (10 mg/kg/dose IV once daily)",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Seven to 14days of therapy is recommended but should be individualized on the basis of the patient’s clinical response",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What are necrotizing infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"The necrotizing or non-necrotizing character of the infection should be always specified when classifying patients with soft-tissue infections",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"How can necrotizing infections be classified?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Patients with NSTIs should be classified into the following:",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"High risk of poor outcome. and \\xa0Mild/moderate risk of poor outcome. \u2028Scores used for severity assessment of patients with necrotizing infections may be useful in the emergency room or outside the intensive care unit (ICU) and may identify patients early, who require surgical treatment and perioperative intensive care management",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Is a multidisciplinary approach to necrotizing infections mandatory?\u2028A multidisciplinary team is mandatory for the management of NSTIs. Depending on the time line, various specialties are involved. Specific attention should be given to the long-term management of these patients",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the pathophysiology of necrotizing infections",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Due to the rapid progression of the inflammatory process, early treatment of necrotizing infection is always recommended",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"How can necrotizing infections be diagnosed?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Clinical signs of NSTI include pain out of proportion, edema extending beyond the erythema, and fever. A rapidly progressive soft-tissue infection should always be suspected as a necrotizing infection",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"The diagnosis of necrotizing infection is primarily a clinical diagnosis. However, radiologic imaging may be able to provide useful information when the diagnosis is uncertain. A plain X-ray should not be used to rule-out necrotizing infection",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In unstable patients, ultrasound may be useful to differentiate simple cellulitis from necrotizing fasciitis",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Imaging studies should not delay surgical consultation and intervention",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the best timing of source control?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Provide (surgical) source control in patients with NSSTI as soon as possible, but at least within the first 12 h after admission, in patients with a high suspicion for necrotizing infection. Early source control, antimicrobial therapy, and (organ) supportive measures are the cornerstone of treatment in patients with sepsis or septic shock caused by NSSTI",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the best timing of re-exploration?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Consider to plan the first re-exploration within 12– 24 h and to repeat re-exploration(s) until the patient is free of necrosis",
+          "level":1,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "value":"What is the role of hyperbaric oxygen therapy (HBO) for source control in necrotizing infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Consider adjuvant hyperbaric oxygen therapy in patients with NSTI after prompt debridement",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the role of intravenous immunoglobulin (IVIG) therapy for source control in necrotizing infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Consider intravenous immunoglobulin (IVIG) therapy in patients with necrotizing infections caused by GAS",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What are the resuscitation principles in patients with necrotizing infection?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Supportive treatment in managing necrotizing infections must be early and aggressive to halt progression of the inflammatory process",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What are the new agents to treat necrotizing infections",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"AB103 (Reltecimod) is a new agent for modulation of inflammation after necrotizing infections. Further study is warranted to establish efficacy (no recommendation).",
+          "level":3,
+          "gor":"None",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What antibiotics are recommended for empiric treatment of clinically suspected necrotizing infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Antibiotic treatment of necrotizing infections should be prompt and aggressive",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"The initial empirical antibiotic regimen should comprise broad-spectrum drugs including anti-MRSA and anti-Gram-negative coverage",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Vancomycin treatment should be avoided in patients with renal impairment and when MRSA isolate shows a MIC for vancomycin ≥ 1.5 mg/mL",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Daptomycin or linezolid are drugs of choice for empirical anti-MRSA coverage. Alternatively, ceftaroline, telavancin, tedizolid, and dalbavacin can be used",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"The choice of anti-Gram-negative treatment should be based on local prevalence of ESBL-producing Enterobacateriaceae and multidrug-resistant organisms (MDROs) non-fermenters",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"De-escalation of antibiotic therapy should be based on clinical improvement, cultured pathogens, and results of rapid diagnostic tests where available",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the optimal duration of antibiotic therapy for necrotizing infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"In the absence of definitive clinical trials, antibiotic therapy should be administered until further debridement is no longer necessary, the patient has improved clinically, and fever has resolved for 48–72 h",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Procalcitonin monitoring may be useful to guide antimicrobial discontinuation",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the treatment of Fournier’s gangrene?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Treatment of Fournier’s gangrene includes prompt appropriate antibiotic therapy, hemodynamic support, and early debridement",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Early and extensive initial surgical debridement in Fournier’s gangrene patients improves survival",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"We suggest consideration for fecal diversion—either by colostomy, fecal tube system with or without negative pressure therapy—in cases of Fournier’s gangrene with fecal contamination",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the role of negative pressure wound therapy in soft-tissue infections and necrotizing fasciitis?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"We suggest to consider negative pressure wound therapy (NPWT) for wound care after complete removal of necrosis in necrotizing infections",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the treatment of infected meshes?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Respect prevention strategies to avoid surgical site infection and prosthetic contamination",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"We suggest avoidance of mesh contamination following incisional SSI by an early and adequate local source control as well as antibiotic treatment",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In chronic sinuses and infected meshes, we suggest a complete surgical removal of the mesh which remains the only way to eradicate infection",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"No clear recommendations on the benefit of bio- logic versus synthetic mesh in potentially contaminated fields can be proposed.",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    }
+  ]
+}

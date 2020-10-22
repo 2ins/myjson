@@ -1,0 +1,118 @@
+{
+  "value":"Acute mesenteric ischemia \n",
+  "level":0,
+  "children":[
+    {
+      "value":"Statement 1 Severe abdominal pain out of proportion to physical examination findings should be assumed to be AMI until disproven.",
+      "level":1,
+      "gor":"_1B",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 2 Clinical scenario differentiates AMI as mesenteric arterial emboli, mesenteric arterial thrombosis, NOMI, or mesenteric venous thrombosis.",
+      "level":1,
+      "gor":"_1B",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 3 Conventional plain X-ray films have limited diagnostic value in evaluating AMI, although signs of intestinal perforation may be seen.",
+      "level":1,
+      "gor":"_1B",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 4 There are no laboratory studies that are sufficiently accurate to identify the presence or absence of ischemic or necrotic bowel, although elevated l-lactate and D-dimer may assist.",
+      "level":1,
+      "gor":"_1B",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 5 Computed tomography angiography (CTA) should be performed as soon as possible for any patient with suspicion for AMI.",
+      "level":1,
+      "gor":"_1A",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 6 Non-occlusive mesenteric ischemia (NOMI) should be suspected in critically ill patients with abdominal pain or distension requiring vasopressor support and evidence of multi-organ dysfunction.",
+      "level":1,
+      "gor":"_1B",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 7 When the diagnosis of AMI is made, fluid resuscitation should commence immediately to enhance visceral perfusion. Electrolyte abnormalities should be corrected, and nasogastric decompression initiated.",
+      "level":1,
+      "gor":"_1B",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 8 Broad-spectrum antibiotics should be administered immediately. Unless contraindicated, patients should be anticoagulated with intravenous unfractionated heparin.",
+      "level":1,
+      "gor":"_1B",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 9 Prompt laparotomy should be done for patients with overt peritonitis.",
+      "level":1,
+      "gor":"_1A",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 10 Endovascular revascularization procedures may have a role with partial arterial occlusion.",
+      "level":1,
+      "gor":"_1C",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 11 Damage control surgery is an important adjunct for patients who require intestinal resection due to the necessity to reassess bowel viability and in patients with refractory sepsis. Planned re-laparotomy is an essential part of AMI management.",
+      "level":1,
+      "gor":"_1B",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 12 Mesenteric venous thrombosis can often be successfully treated with a continuous infusion of unfractionated heparin.",
+      "level":1,
+      "gor":"_1B",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 13 When NOMI is suspected, the treatment focus should be to correct the underlying cause and to restore mesenteric perfusion. Infarcted bowel should be resected promptly.",
+      "level":1,
+      "gor":"_1B",
+      "children":[
+
+      ]
+    },
+    {
+      "value":"Statement 14 The finding of massive gut necrosis requires careful assessment of the patients underlying co-morbidities and advanced directives in order to judge whether comfort carries the best treatment.",
+      "level":1,
+      "gor":"_1C",
+      "children":[
+
+      ]
+    }
+  ]
+}

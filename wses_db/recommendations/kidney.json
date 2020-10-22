@@ -1,0 +1,681 @@
+{
+  "value":"Kidney and uro-trauma: \n",
+  "level":0,
+  "children":[
+    {
+      "value":"Diagnostic procedures",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Kidney",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"The choice of diagnostic method upon admission depends on the hemodynamic status of the patient.",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"E-FAST is effective and rapid to detect intra-abdominal free fluid.",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"E-FAST has low sensitivity and specificity in kidney trauma.",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Contrast-enhanced CT scan associated with delayed urographic phase is the gold standard in hemodynamic stable or stabilized adults after blunt of penetrating trauma and in severely injured children when kidney or urinary tract injury is suspected.",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In blunt trauma, contrast-enhanced CT scan associated with delayed urographic phase must be performed in cases of macroor microhematuria with hypotension and after high-energy deceleration trauma regardless of the presence of hematuria.",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In penetrating trauma, contrast-enhanced CT scan associated with delayed urographic phase is indicated in all hemodynamic stable or stabilized patients.",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Pediatric patients with high energy/penetrating/ decelerating trauma and/or in cases of drop in hematocrit associated with any degree of hematuria should undergo contrast-enhanced CT-scan with delayed urographic phase.",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Ultrasound, contrast-enhanced US and ecoDoppler (E-FAST excluded) are generally not recommended as diagnostic tools during the initial evaluation of adult patients with highenergy trauma when multiple injuries and/or injury to the urinary tract and collecting system are suspected.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Ultrasound, contrast-enhanced US, and ecodoppler can be used in pregnant women and in the pediatric population as an alternative to CTscan in the presence of hemodynamic stability during the immediate assessment and in followup evaluations.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In children with mild symptoms, minimal clinical findings, hematuria <50 RBCs/HPF and no other indications of CT-scanning, ultrasound and/or contrast-enhanced US and/or eco-doppler associated to blood test may be adopted for the initial evaluation.",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Intravenous urography may be useful in unstable patients during surgery when a kidney injury is found intraoperatively or when CT-scanning is not available and a urinary tract injury is suspected.",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Ureter",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Injury to the ureter should be suspected in high-energy blunt trauma, particularly in deceleration injuries with multi-system involvement and in all penetrating abdominal trauma.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Intravenous contrast-enhanced CT-scan with delayed phase should be performed in hemodynamically stable or stabilized patients if ureteral injury is suspected",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Direct inspection of the ureter should be always performed during emergency laparotomy in patients with suspected ureteral injury.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Bladder",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Retrograde cystography (conventional radiography or CT-scan) represents the diagnostic procedure of choice in bladder injuries.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Intravenous contrast-enhanced CT-scan with delayed phase is less sensitive and specific than retrograde cystography in detecting bladder injuries.",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In pelvic bleeding amenable to angioembolization associated to suspected bladder injuries, cystography should be postponed until the completion of the angiographic procedure to avoid affecting the accuracy of angiography.",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Urethra",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Patients with post-traumatic urethral hemorrhage should be investigated for urethral injuries.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"During emergency laparotomy, if an urethral injury is suspected, it should be investigated directly whenever feasible.",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Retrograde urethrography and selective urethroscopy represent the modalities of choice to investigate traumatic urethral injuries.",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In the event of penile lesions, urethroscopy should be preferred to retrograde uretrography",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Management",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Kidney Non-operative management (NOM)",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"NOM should be the treatment of choice for all hemodynamical stable or stabilized minor (AAST I-II), moderate (AAST III) and severe (AAST IV-V) lesions.",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Only in selected settings, with immediate availability of operating room, surgeons and adequate resuscitation, immediate access to blood, blood products and to high dependency / intensive care environment, and without other reasons for surgical exploration, NOM may be considered even in hemodynamically transient responder patients.",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In deciding for NOM in hemodynamically stable or stabilized patients, accurate classification of the degree of injury and associated injuries with CTscan with intravenous contrast and delayed urographic phases is mandatory.",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"NOM in penetrating lateral kidney injuries is feasible and effective but accurate patient selection is crucial even in the absence of other indications for laparotomy. In particular, cases  without violation of the peritoneal cavity are more suitable for NOM.",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Isolated urinary extravasation, in itself, is not an absolute contra-indication to NOM in absence of other indications for laparotomy.",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In low resource settings, NOM could be considered in hemodynamically stable patients without evidence of associated injuries, with negative serial physical examinations and negative first level imaging and blood tests.",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Kidney Angiography and angioembolization",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Angiography with eventual super-selective angioembolization is a safe and effective procedure; it may be indicated in hemodynamically stable or stabilized patients with arterial contrast extravasation, pseudoaneurysms, arteriovenous fistula, and non-self-limiting gross hematuria.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Angioembolization should be performed as selectively as possible.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Blind-angioembolization is not indicated in hemodynamically stable or stabilized patients with both kidneys when angiography is negative for active bleeding, regardless of arterial contrast extravasation on CT-scan.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In hemodynamically stable or stabilized patients with severe renal trauma with main renal artery injury, dissection or occlusion, angioembolization and/or percutaneous revascularization with stent or stentgraft is indicated in specialized centres and in patients with limited warm ischemia time (<240 min)",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Endovascular selective balloon occlusion of the renal artery could be utilized as a bridge to definitive hemostasis. This procedure requires direct visualization by fluoroscopy where the balloon is advanced over a selectively placed guidewire.",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In severe injury with main renal vein injury without self-limiting bleeding, angioembolization is not indicated. Patients should undergo surgical intervention.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In hemodynamically stable or stabilized patients with solitary kidney and moderate (AAST III) or severe (AAST IV-V) renal trauma with arterial contrast extravasation on CT-scan, angiography with eventual super-selective angioembolization should be considered as the first choice.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In hemodynamically stable or stabilized patients with active kidney bleeding at angiography and without other indications for surgical intervention, in case of failure of the initial angioembolization, a repeat angioembolization should be considered.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In adults, only in selected setting (immediate availability of operating room, surgeon, adequate resuscitation, immediate access to blood and blood products and to high dependency / intensive care environment) and without other reasons for surgical exploration, angioembolization might be considered in selected hemodynamically transient responder patients.",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In children, angiography and eventual superselective angioembolization should be the first choice even with active bleeding and labile hemodynamics, iof there is immediate availability of angiographic suite, immediate access to surgery and to blood and blood products, and to high dependency / intensive care environment.",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Kidney Operative management (OM)",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Hemodynamically unstable and non-responder (WSES IV) patients should undergo OM.",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Resuscitative Endovascular Balloon Occlusion of the Aorta (i.e., REBOA) may be used in hemodynamically unstable patients as a bridge to other more definitive procedures for hemorrhage control.",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In cases of severe renal vascular injuries without self-limiting bleeding, OM is indicated.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"The presence of non-viable tissue (devascularized kidney) is not an indication to OM in the acute setting in the absence of other indications for laparotomy.",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Hemodynamic stable or stabilized patients having  damage to the renal pelvis not amenable to endoscopic/percutaeous techniques/stent should be considered for delayed OM in absence of other indications for immediate laparotomy.",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Urinary tract injuries",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Ureter",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Contusions may require ureteral stenting when urine flow is impaired.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Partial lesions of the ureter should be initially treated conservatively with the use of a stent, with or without a diverting nephrostomy in the absence of other indications for laparotomy.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Partial and complete ureteral transections or avulsion not suitable for NOM may be treated with primary repair plus a double J stent or ureteral re-implant into the bladder in case of distal lesions",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Ureteral injuries should be repaired operatively when discovered during laparotomy or in cases where conservative management has failed",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Ureteral stenting should be attempted in cases of partial ureteral injuries diagnosed in a delayed fashion; if this approach fails, and/or in case of complete transection of the ureter, percutaneous nephrostomy with delayed surgical repair is indicated.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In any ureteral repair, stent placement is strongly recommended.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Bladder",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Bladder contusion requires no specific treatment and might be observed clinically.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Intraperitoneal bladder rupture should be managed by surgical exploration and primary repair",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Laparoscopy might be considered in repairing isolated intraperitoneal injuries in case of hemodynamic stability and no other indications for laparotomy.",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In case of severe intraperitoneal bladder rupture, during damage control procedures, urinary diversion via bladder and perivesical drainage or external ureteral stenting may be used.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Uncomplicated blunt or penetrating extraperitoneal bladder injuries may be managed non-operatively, with urinary drainage via a urethral or suprapubic catheter in the absence of other indication for laparotomy.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Complex extra-peritoneal bladder ruptures—i.e., bladder neck injuries, lesions associated to pelvic ring fracture and/or vaginal or rectal injuriesshould be explored and repaired.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Surgical repair of extraperitoneal bladder rupture should be considered during laparotomy for other indications and during surgical exploration of the prevesical space for orthopedic fixations.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"In adult patients, urinary drainage with urethral catheter (without suprapubic catheter) after surgical management of bladder injuries is mandatory",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Urethra",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Urinary drainage should be obtained as soon as possible in case of traumatic urethral injury.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Blunt anterior urethral injuries should be initially \u2028managed conservatively with urinary drainage (via urethral or suprapubic catheter); endoscopic treatment with realignment should be attempted before surgery. Delayed surgical repair should be considered in case of failure of conservative treatment after endoscopic approach.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Partial blunt injuries of the posterior urethra may be initially managed conservatively with urinary drainage (via urethral or suprapubic catheter) and endoscopic realignment; definitive surgical management should be delayed for 14 days if no other indications for laparotomy exist.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Injuries of the posterior urethra in cases of hemodynamic instability should be approached by immediate urinary drainage and delayed treatment.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Conservative treatment of penetrating urethral injuries is generally not recommended.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Penetrating injuries of anterior urethra should be \u2028treated with immediate direct surgical repair if the clinical conditions allow and if an experienced surgeon is available; otherwise, urinary drainage should be performed and delayed treatment planned.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Penetrating injuries of the posterior urethra should be treated with primary repair only if the clinical conditions allow. Otherwise, urinary drainage and delayed urethroplasty is recommended.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"When posterior urethral injury is associated with complex pelvic fracture, definitive surgical treatment with urethroplasty should be performed after the healing of pelvic ring injury.",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Kidney and urinary tract",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Follow-up imaging is not required for minor (AAST I-II) renal injuries managed non-operatively.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In moderate (AAST III) and severe (AAST IV-V) renal injuries, the need for follow-up imaging is driven by the patients’ clinical conditions.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In severe injuries (AAST IV-V), contrast-enhanced CT scan with excretory phase (in cases with possible or documented  extravasation) or ultrasound and contrast-enhanced US are suggested within the first 48 h after trauma in adult patients and in delayed follow-up.",
+
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Follow-up imaging in pediatric patients should be limited to moderate (AAST III) and severe (AAST IV-V) injuries.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In pediatric patients, ultrasound and contrastenhanced US should be the first choice in the early and delayed follow-up phases. If crosssectional imaging is required, magnetic resonance should be preferred.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"CT-scan with delayed phase imaging is the method of choice for the follow-up of ureteral and bladder injuries.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Uretroscopy or uretrogram are the methods of choice for the follow-up of urethral injuries.",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Return to sport activities should be allowed only after microscopic hematuria is resolved.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    }
+  ]
+}

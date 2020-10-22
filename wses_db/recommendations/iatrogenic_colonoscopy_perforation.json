@@ -1,0 +1,496 @@
+{
+  "value":"management of iatrogenic colonoscopy perforation",
+  "level":0,
+  "children":[
+    {
+      "value":"Risk of ICP",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Q1 What are the general recommendations to minimize the risk of ICP during screening and therapeutic colonoscopies?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"1.1.During diagnostic endoscopy training, a low threshold at which the senior endoscopist should assume manual control or abort the procedure should be established. Unusual difficulty in traversing the sigmoid colon, a difficult examination in a female or elderly patient, or the presence of diverticular disease or colonic obstruction should be considered alarming conditions",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"1.3.Air should be insufflated judiciously to avoid barotrauma, especially if bowel obstruction is suspected. The use of CO2 further minimizes bowel distension, abdominal discomfort, and the risk of perforation",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"1.4.During en bloc endoscopic polypectomy, the maximum size of the tissue sample safely included in the SNARE should be 2 cm (especially if the lesion is proximal to the splenic flexure). Pre-polypectomy submucosal injection reduces the risk of electro-coagulative damage to the muscularis propria. Blended current mode limits the depth of tissue damage, and cold techniques are preferred for small polyps (≤5 mm)",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"1.5.Endoscopic submucosal dissection (ESD) should be limited to selected cases because of the high rate of associated complications",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"1.6.Stenting of a malignant disease should be discouraged in patients receiving bevacizumab. In the case of Crohn’s disease, dilatation of a long stenotic area in the presence of active disease or a suspected fistula before or after stent placement is not advisable",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"1.7.Whenever risky endoscopic procedures must be performed, the availability of and close collaboration with a hospital-based multidisciplinary team can improve patient outcomes",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q2 What is the maximum incidence of ICP considered acceptable for centers where diagnostic or therapeutic colonoscopies are performed?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"2.1.The maximum acceptable incidence of ICP for diagnostic colonoscopies should not exceed 0.1%",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"2.2.During therapeutic colonoscopy, the maximum acceptable incidence of ICP should be ≤ 1% for complex polypectomy (Recommendation 1A) and less than 7% for SEMS placement",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Diagnosis of ICP",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Q3 What is the minimum information the endoscopist must report after diagnosing an ICP during a colonoscopy procedure?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"3.1.If the ICP is detected during the procedure by the endoscopist, a detailed description should be provided including the following information:\\nColonoscopy indication (i.e., diagnostic ortherapeutic)\\nAssociated colonic pathology (e.g., strictures, polyps, tumors)\\nAdministration of sedation, analgesia, or anesthesia for the colonoscopy\\nPatient’s general status and presence of comorbidities\\nGas type used for insufflation\\nQuality of the colonic preparation\\nTime of the ICP occurrence\\nMost likely reason for ICP (e.g., thermal injury, mechanical injury)\\nInjury localization and size\\nWhether an endoscopic resolution was intended, attempted, or completed\\nHow the endoscopic repair was performed\\nPresence of abdominal distention increasing the probability of abdominal compartment syndrome \\nThis recommendation was obtained by consensus after discussion with the panel experts \\n",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q4 What are the minimum biochemical and imaging investigations that should be requested in the case of suspected ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"4.1.After diagnostic or therapeutic colonoscopies, all patients who present with abdominal pain, and/or tenderness, and/or abdominal distension, and/or fever, and/or rectal bleeding should be investigated for ICP by laboratory tests and imaging exams",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"4.2.The minimum biochemical markers that should be requested in the case of suspected ICP are white blood cell count and C-reactive protein",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"4.3.ICP should be confirmed with the demonstration of free intra-peritoneal or extra-peritoneal air (Recommendation 1B). CT scan is more sensitive than standard abdominal radiographs to detect free air",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"4.4.In the case of localized peritoneal signs, double contrast enhanced CT scan can be a useful adjunctive tool to confirm the feasibility of non-operative management of ICP",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Conservative and endoscopic treatments of ICP",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Q5 What are the indications for a conservative treatment or an immediate surgical intervention after an ICP diagnosis?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"5.1.Non-operative (conservative) management of ICPs may be appropriate in selected patients, including patients who are hemodynamically stable, without sepsis, experiencing localized pain, and with no free fluid in radiographs",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"5.2.Endoscopic treatment can be considered as an initial approach if it is feasible within 4 h following the procedure depending on the size and cause of the iatrogenic injury and the operator’s level of experience",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"5.3.Emergency surgery is recommended when the patient develops signs and symptoms of peritonitis, in cases of clinical deterioration, suspected large perforation, failure of conservative management, poor bowel preparation, or in the presence of an underlying colonic disease requiring surgery",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q6 What is the minimum duration of the hospital observation period for patients who have undergone successful endoscopic closure or conservative management of ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"6.1.After conservative or endoscopic treatment of ICP, monitoring and follow-up should be assured by a multidisciplinary team, including surgeons. There is no optimal duration of the observation period, but it depends on the patient’s clinical status and response to treatment",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q7 What investigations (clinical, biochemical, and imaging) should be performed during the observation period in patients who have undergone successful endoscopic closure or conservative management of ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"7.1.During the observation period, the patient treated for ICP should be monitored clinically, by laboratory tests (including WBC, PCT, CRP) and imaging (CT scan)",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q8 What is the recommended type and duration of antibiotic therapy in patients who have undergone successful endoscopic closure or conservative management of ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"8.1.In patients who have undergone conservative management of ICP, even if there is no sign of diffuse peritonitis, antibiotic therapy covering Gram-negative bacteria and anaerobes is recommended",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"8.2.In patients with perforation repaired by endoscopic closure, a short-term course of antibiotic therapy (3–5 days) covering Gram-negative bacteria and anaerobes is recommended. Antibiotics should be stopped if there are no signs of systemic inflammation and/or peritonitis after the short-term treatment. Abdominal CT is suggested to help rule out peritonitis or early abscess formation",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"8.3.In patients who have undergone a surgical procedure with an adequate source-control procedure, postoperative therapy should be shortened as much as possible after the resolution of physiological abnormalities",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q9 Which is the recommended type and duration of antithrombotic prophylaxis in patients who have undergone successful endoscopic closure or conservative management of ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"9.1.In patients with ICP undergoing a surgical procedure, thromboprophylaxis is generally recommended during hospitalization and thereafter according to the underlying disease and comorbidities",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q10 How long is the fasting time in patients who have undergone successful endoscopic closure or conservative treatments for ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"10.1.A liquid diet may begin within 1 to 2 days after the initiation of conservative management of ICP, according to the patient’s clinical status",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"10.2.A liquid diet may begin immediately after endoscopic repair of ICP, according to the patient’s clinical status",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Surgical treatment of ICP",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Q11 Is explorative laparoscopy indicated in all patients with ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"11.1.Explorative laparoscopy is safe and can be considered as the preferred first-line surgical approach for the management of ICP",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"11.2.Explorative laparoscopy should be performed according to the surgeon’s experience and skills, as well as the availability of adequate technology and surgical devices",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q12 Which are the indications for conversion from laparoscopy to open surgery in patients with surgical ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"12.1.Conversion from laparoscopy to laparotomy should be considered whenever necessary with regard to the ability of the operator to proceed laparoscopically, the tissue viability, and the patient’s status",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q13 What are the key factors upon which to choose the best surgical approach for ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"13.1.The best surgical technique for the management of ICP should be decided after a careful inspection of the abdominal cavity and considering the underlying colonic pathology",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"13.2.Primary repair can be used if the colonic tissues appear healthy and well vascularized, and an approximation of perforation edges could be done without tension",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"13.3.Wedge resection would be feasible if it does not imply an excessive narrowing of the colonic lumen (e.g., perforation of the cecum or sigmoid colon)",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"13.4.Colonic resection may be indicated if the perforation is too large, the edges appear devitalized, or an avulsion of the adjacent mesocolon is seen",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"13.5.Staged repair or colostomy may be necessary in cases of delayed surgery (> 24 h from the colonoscopy), extensive peritoneal contamination, important comorbidities or a deterioration of the patient’s general status (i.e., hemodynamically unstable or sepsis)",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q14 What are the indications for performing a diverting or terminal stoma in patients with ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"14.1.Stoma formation is an accepted and practiced adjunct in the surgical management of ICP",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"14.2.Surgical judgment is crucial in the decision regarding stoma need: patient, disease, and situational/environmental factors need to be considered in the individual clinical circumstance",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q15 What are the indications for drainage in patients with ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"15.1.In the case of early surgery (< 24 h from colonoscopy) in a patient with good bowel preparation, minimal peritoneal contamination, and adequate infection source control, intra-abdominal drainage placement should be avoided",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"15.2.In the case of delayed surgery (> 24 h from colonoscopy) in a patient with poor bowel preparation or extensive peritoneal contamination, drainage placement may be recommended",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Q16 What are the indications for the use of damage control surgery in patients with ICP?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"16.1.DCS following ICP may be indicated in hemodynamically unstable patients, patients receiving a delayed diagnosed of ICP, and patients presenting with significant comorbidities",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"16.2.DCS can be a valid option in cases of staged",
+              "level":3,
+              "gor":"None",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"procedures, particularly when oncologic resections are required",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Follow-up of ICP",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Q17 Is there any recommendation to perform a surveillance endoscopy after a successful ICP treatment? If so, what is the recommended timing for it?",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"17.1.In cases of perforation occurring during a diagnostic colonoscopy for screening or surveillance of colorectal cancer, a repeat endoscopy is indicated within 3 to 6 months postoperatively if the screening or clearing colonoscopy was incomplete due to malignant obstruction or inadequate preparation",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"17.2.In cases of perforation occurring during a colonoscopy for gastrointestinal bleeding, a surveillance endoscopy is indicated for diagnostic and therapeutic purposes; in cases of acute lower gastrointestinal bleeding, it is necessary to ascertain the resolution of the perforation",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"17.3.In cases of perforation occurring during an operative colonoscopy (e.g., polypectomy, endoscopic mucosal resection, or endoscopic submucosal dissection), a surveillance colonoscopy should be performed according to the current guidelines to determine whether the resection during the primary endoscopy was complete. The surveillance endoscopy can be performed within 3 to 6 months from the operative colonoscopy during which the ICP occurred in cases of incomplete resection",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

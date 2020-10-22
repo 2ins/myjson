@@ -1,0 +1,296 @@
+{
+  "value":"colon and rectal cancer emergencies: obstruction and perforation\n",
+  "level":0,
+  "children":[
+    {
+      "value":"1. Diagnosis",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"1.1 3 B The clinical presentation is variable, except for lower rectal cancer, in which case digital examination could be diagnostic. Laboratory tests are not specific. Clinical evaluation and laboratory tests have high variability and low specificity; therefore, the escalation to further diagnostic tools, whenever available, is mandatory.",
+          "level":2,
+          "gor":"_3B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"1.2 3 B (a) In case of clinical suspicion of colon obstruction, computed tomography (CT) scan achieves the confirmation of diagnosis better than abdominal ultrasound (US), which performs better than abdominal plain X-ray. If CT scan is not available, a water-soluble colonic contrast enema is a valid alternative in for identifying the site and the nature of obstruction. (b) In case of clinical suspicion of perforation, abdominal CT scan, which performs better than abdominal US, should achieve diagnostic confirmation. US performs better than abdominal plain X-ray.",
+          "level":2,
+          "gor":"_3B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"1.3 3 B In stable patients, direct visualisation of the site of colonic obstruction should be considered when colonoscopy is available. In this situation, biopsies should be obtained, especially when the deployment of an endoscopic stent is planned. LoE 3, GoR B.",
+          "level":2,
+          "gor":"_3B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"1.4 3 B In case of clinical suspicion of perforation, abdominal CT scan, which performs better than abdominal US, should achieve diagnostic confirmation. US performs better than abdominal plain X-ray.",
+          "level":2,
+          "gor":"_3B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"1.5 3 B There is no specific data regarding staging pathways of CRC presenting as an emergency. CT scan performs better than US in the abdomen and should be suggested for staging in the suspicion of cancer-related colorectal emergencies. CT scan of the thorax is not strictly recommended. LoE 3, GoR B",
+          "level":2,
+          "gor":"_3B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"2. Perforation",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"2.1 2 B When diffuse peritonitis occurs in cancer-related colon perforation, the priority is the control of the sepsis source of sepsis. Prompt combined medical treatment is advised. LoE 2, GoR B",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"2.2 3 B Oncologic resection should be performed in order to obtain better oncologic outcomes.\\n • Perforation at the tumour site: formal resection with or without anastomosis, with or without stoma\\n• Perforation proximal to tumour site (diastasic): simultaneous tumour resection and management of proximal perforation is indicated. Depending on the colonic wall conditions, a subtotal colectomy may be required. The surgeon should consider that only a small proportion of patients undergo reversal of terminal stoma.",
+          "level":2,
+          "gor":"_3B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"3. Left colon obstruction",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"3.1 2 B Loop colostomy (C) versus Hartmann’s procedure (HP). Hartmann’s procedure should be preferred to simple colostomy, since colostomy appears to be associated with longer overall hospital stay and need for multiple operations, without a reduction in perioperative morbidity LoE 2, GoR B. Loop colostomy should be reserved for to unresectable tumours (if SEMS is not feasible), for severely ill patients who are too unfit for major surgical procedures or general anaesthesia.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"3.2 3 B Hartmann’s procedure (HP) versus resection and primary anastomosis (RPA)\\nRPA should be the preferred option for uncomplicated malignant left-sided large bowel obstruction in absence of other risk factors. Patients with high surgical risk are better managed with HP.",
+          "level":2,
+          "gor":"_3B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"3.3 4 C  RPA: the role of diverting stoma\\nThere is no evidence supporting that a covering stoma can reduce the risk of anastomotic leak and its severity.",
+          "level":2,
+          "gor":"_4C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"3.4 2 B Total colectomy versus segmental colectomy. In absence of caecal tears/perforation or, evidence of bowel ischemia or synchronous right colonic cancers, total colectomy should not be preferred to segmental colectomy, since it does not reduce morbidity and mortality and is associated with higher rates of impaired bowel function. LoE 2, GoR B.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"3.5 2 B Intraoperative colonic irrigation (ICI) versus manual decompression (MD)\\nICI and MD are associated with same mortality/morbidity rate. The only significant difference is that MD is a shorter and simpler procedure. Either procedure could be performed, depending on the experience/preference of the surgeon.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"3.6 4 C RPA: the role of laparoscopy. The role use of laparoscopy in the emergency treatment of OLCC cannot be recommended and should be reserved to selected favourable cases and in specialised centers.",
+          "level":2,
+          "gor":"_4C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"3.7 4 C Tube decompression (TD)\\nTD can be a valid alternative option as BTS for high-risk OLCC.",
+          "level":2,
+          "gor":"_4C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"3.8 3 B Palliation: SEMS versus colostomy. In facilities with capability for stent placement, SEMS should be preferred to colostomy for palliation of OLCC since it is associated with similar mortality/morbidity rates and shorter hospital stay. LoE 1-GoR A. Alternative treatments to SEMS should be considered in patients eligible for to a bevacizumab-based therapy. Involvement of the oncologist in the decision is strongly recommended. LoE 3-GoR B",
+          "level":2,
+          "gor":"_3B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"3.9 1 B Bridge to surgery (BTS): SEMS and planned surgery versus emergency surgery\\n SEMS as bridge to elective surgery offers a better short-term outcome than direct emergency surgery.\\nThe complications are comparable, but the stoma rate is significantly smaller.\\nLong-term outcomes appear comparable as well, but evidence remains suboptimal; further studies are necessary. For these reasons, SEMS as BTS cannot be considered the treatment of choice in the management of OLCC, whilst it may represent a valid option in selected cases and in tertiary referral hospitals.",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"3.10 1 A Extraperitoneal rectal cancer. Locally advanced rectal cancers are better cured treated with a multimodal approach including neoadjuvant chemoradiotherapy. LoE 1-GoR A. In case of acute obstruction, resection of the primary tumour should be avoided and a stoma should be fashioned, in order to permit a correct staging and a more appropriate oncologic treatment. Transverse colostomy seems to be the best option, but other modalities can be considered. SEMS is not indicated.",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"4. Right occlusion",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"4.1 2 B In case of right-sided colon cancer causing acute obstruction, right colectomy with primary anastomosis is the preferred option. A terminal ileostomy associated with colonic fistula represents a valid alternative when if a primary anastomosis is considered unsafe. LoE 2-GOR B",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"4.2 2 B For unresectable right-sided colon cancer, a side-to-side anastomosis between the terminal ileum and the transverse colon (the internal bypass) can be performed; alternatively, a loop ileostomy can be fashioned. Decompressive caecostomy should be abandoned.",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"4.3 4 B SEMS as bridge to elective surgery for ORCC is not recommended. It may represent an option in high-risk patients.",
+          "level":2,
+          "gor":"_4B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"4.4 3 B In a palliative setting, SEMS can be an alternative to emergency surgery (ES) in for obstruction due to right colon cancer obstruction. LoE 3, GOR B",
+          "level":2,
+          "gor":"_3B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"5. Unstable patients",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"5.1 2 C A patient with perforation/obstruction due to colorectal cancer should be considered unstable and therefore amenable for damage control treatment, if at least one of the following items is present:\\n● pH <7.2\\n● Core temperature < 35 °C\\n● BE < − 8\\n● Laboratory/clinical evidence of coagulopathy\\n● Any signs of sepsis/septic shock, including the necessity of inotropic support.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"5.2 2 C Damage control should be started as soon as possible, in rapid sequence after resuscitation.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"5.3 2 C If the patient is unstable, definitive treatment can be delayed.\\nRight-sided obstruction:\\nRight colectomy with terminal ileostomy should be considered the procedure of choice.\\nSeverely unstable patients should be treated with a loop ileostomy.\\nRight-sided perforation:\\nRight colectomy with terminal ileostomy should be considered the procedure of choice.\\nIf an open abdomen has to be considered, the stoma creation should be delayed.\\nRight colectomy with ileo-colic anastomosis could be performed if no significant increase in operative time is required and good bowel vascularisation is present and expected in the perioperative time.\\nLeft-sided obstruction:\\nHartmann’s procedure should be considered the procedure of choice. Severe unstable patients should be treated with a loop transverse colostomy.\\nLeft-sided perforation:\\nHartmann’s procedure should be considered the procedure of choice. If an open abdomen has to be considered, the stoma creation should be delayed.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"5.4 2 C In patient with perforation/obstruction due to colorectal lesions, open abdomen (OA) should be considered if abdominal compartment syndrome is expected; bowel viability should be reassessed after resection.\\nThere is no clear indication to OA in patients with peritonitis.\\nOA should be closed within 7 days.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"5.5 2 C A close intraoperative communication between surgeon and anesthesiologist is essential to assess the effectiveness of resuscitation, in order to decide the best treatment option.",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"6. Antibiotic therapy",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"6.1 1 A In patients with colorectal carcinoma obstruction with no systemic signs of infection, antibiotic prophylaxis is recommended.",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"6.2 1 A Prophylactic antibiotics should be discontinued after 24 h (or 3 doses).",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"6.3 1 B In patients with intestinal obstruction, even without systemic signs of infections, antibiotic prophylaxis mainly targeting Gram-negative bacilli and anaerobic bacteria is suggested, because of the potential ongoing bacterial translocation.",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"6.4 1 A In patients with colon carcinoma perforation, antibiotic therapy mainly targeting Gram-negative bacilli and anaerobic bacteria is always suggested. Furthermore, in critically ill patients with sepsis early, use of broader-spectrum antimicrobials is suggested.",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"6.5 1 B In patients with perforated colorectal cancer, antibiotic therapy should consider bacterial resistance, and should be refined according to the microbiological findings, once available.",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "value":"Intraoperative surgical site infection control and prevention \n",
+  "level":0,
+  "children":[
+    {
+      "value":"How to close a surgical incision?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"There is no significant difference in terms of SSI incidence and length of hospital stay between patients in which the skin is sutured by continuous versus interrupted stitches",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Superficial wound dehiscence is lower in subcuticular continuous suture versus interrupted stitches.",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"The use of steri-strips doesn't reduce the incidence of SSI",
+          "level":3,
+          "gor":"None",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Coated sutures: are they useful? What is the role of intraoperative intraperitoneal irrigation vs topic wound lavage with antibiotic solutions to prevent surgical site infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Triclosan-coated sutures significantly reduce SSI prevalence compared with the non-coated sutures",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"What is the role of intraoperative intraperitoneal irrigation vs topic wound lavage with antibiotic solutions to prevent surgical site infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"There are insufficient data to to support the role of intraperitoneal the role of intraperitoneal or topic wound irrigation with antibiotics in preventing SSI",
+          "level":3,
+          "gor":"None",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Could wound irrigation with saline and/or povidone iodine solution be useful to prevent surgical site infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"There are insufficient data to determine the role of saline or povidone solution irrigation of incisional wounds before closure to prevent SSI",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Are wound protector devices useful?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"The use of wound protectors has protective effects in reducing incisional SSI",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"The use of dual-ring constructed wound protectors appears to be superior to single-ring devices in preventing SSI.",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Are sterile surgical drapes useful? To drain or not to drain in closing surgical incision?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"There is no evidence that plastic adhesive incise drapes with or without antimicrobial properties are useful to decrease SSI",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"To drain or not to drain in closing surgical incision?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"There are insufficient data to determine the role of the use of subcutaneous drainage of incisional wounds before closure to prevent SSI in high-risk patients",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"When is double gloving recommended? When is changing gloves recommended during an operation?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"There are insufficient data to determine the role of double gloving to prevent SSI",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"The mechanical resistance of latex gloves depends on the duration of wear. It may be beneficial for surgical team members and their protection to change gloves at certain intervals during surgery",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Is negative-pressure wound dressing useful to prevent surgical site infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"The application of negative-pressure wound therapy in preventing SSI may be effective in reducing postoperative wound complications and it may be an option especially in patients with a high risk of SSI",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Is intraoperative normothermia useful to prevent surgical site infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Intraoperative normothermia decreases the rate of SSI",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"The use of active warming devices in operating room is useful to keep normothermia and reduce SSI",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Is perioperative supplemental oxygen effective to reduce surgical site infections?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Perioperative hyperoxygenation does not reduce SSI",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Leaving the skin open for delayed primary closure can reduce SSI?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Delayed primary skin closure may reduce the incidence of SSI",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Delayed primary closure of a surgical incision is an option to take into consideration in contaminated abdominal surgeries, in patients with high risk of SSI",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"When should additional antibiotic dose be administered intraoperatively?",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Optimal knowledge and use of the pharmacokinetic/pharmacodynamic characteristics of antibiotics are important to evaluate when additional antibiotic doses should be administered intraoperatively in patients with intra-abdominal infections undergoing emergency surgery",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    }
+  ]
+}

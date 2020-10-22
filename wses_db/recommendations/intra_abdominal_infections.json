@@ -1,0 +1,494 @@
+{
+  "value":"GD intra-abdominal infections\n",
+  "level":0,
+  "children":[
+    {
+      "value":"Principles of sepsis control",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Statement 1 Early recognition of the patient with ongoing abdominal sepsis is an essential step for an effective treatment. Prompt administration of intravenous fluids for resuscitation is critical in patients with an ongoing sepsis. This initial resuscitation should be titrated to the clinical response, and not solely guided by a predetermined protocol. Vasopressor agents may serve to augment and assist fluid resuscitation, particularly where this therapy alone is failing",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Diagnosis",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Statement 2 A step-up approach for diagnosis from clinical and laboratory examination, to imaging examination should be used and tailored to the hospitals resources",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Source control",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Acute appendicitis",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 3 Appendectomy remains the treatment of choice also for acute appendicitis. Antibiotic therapy is a safe means of primary treatment for patients with uncomplicated acute appendicitis, but it is less effective in the long-term due to significant recurrence rates and probably needs the certainty of a CT proven diagnosis of uncomplicated appendicitis",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 4 Both open and laparoscopic appendectomies are viable approaches to surgical treatment of acute appendicitis",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 5 Patients with a periappendiceal abscess can be managed with percutaneous image-guided drainage in surgical departments with ready access to diagnostic and interventional radiology. When percutaneous drainage is not available, surgery is suggested",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 6 In patients treated conservatively, interval appendectomy may be not necessary following initial non-operative treatment of complicated appendicitis. However, interval appendectomies should always be performed for patients with recurrent symptoms",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 7 Routine use of intra-operative irrigation for appendectomies does not prevent intra-abdominal abscess formation and may be avoided",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Acute left colonic diverticulitis",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 8 Antibiotics can be avoided in patients with CT findings of uncomplicated ALCD and without significant comorbid conditions or signs of sepsis. Patients should be clinically monitored to assess for resolution of the inflammatory processes",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 9 On the basis of clinical conditions, patients with diverticular smaller abscesses may be treated by antibiotics alone",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 10 Patients with abscesses having a large diameter should be treated by percutaneous drainage and intravenous antibiotics",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 11 Whenever percutaneous drainage of the abscess is not feasible or not available, based on the clinical conditions patients with large abscesses can be initially treated by antibiotic therapy alone. However, careful clinical monitoring is mandatory",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 12 Hartmann’s procedure remains useful in the management of diffuse peritonitis in critically ill patients. However, in clinically stable patients, primary resection with anastomosis, with or without a diverting stoma, may be performed",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 13 Laparoscopic peritoneal lavage and drainage may not be considered the treatment of choice in patients with diffuse peritonitis",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Colonic carcinoma perforation",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 14 Treatments for perforated colonic carcinoma should both stabilize the emergency condition of the peritonitis and fulfil the technical objectives of oncological intervention",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Colonic perforation following colonoscopy",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 15 Patients presenting with diffuse peritonitis caused by colonoscopic perforation should undergo immediate surgical intervention, which typically involves primary repair or resection",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 16 An early laparoscopic approach may be a safe and effective option for colonoscopy-related colonic perforation for experienced surgeons",
+              "level":3,
+              "gor":"_2B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Gastroduodenal peptic ulcer perforations",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 17 Surgery is the treatment of choice for perforated peptic ulcers",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 18 Simple closure with or without an omental patch is a safe and effective procedure to address small perforated ulcers (<2 cm)",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 19 Laparoscopic repair of perforated peptic ulcers can be a safe and effective procedure for experienced surgeons",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Small bowel perforations",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 20 Surgery is the treatment of choice for patients with small bowel perforations",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 21 In the event of small perforations, primary repair is recommended",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Abdominal tuberculosis",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 22 In the case of abdominal tuberculosis perforation, resection of the affected area and anastomosis may be the treatment of choice rather than primary closure",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Acute calculous cholecystitis",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 23 Early cholecystectomy is a safe treatment for acute cholecystitis and generally results in shorter recovery time and hospitalization compared to delayed cholecystectomies",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 24 Laparoscopic cholecystectomy is a safe and effective treatment for acute cholecystitis",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 25 Cholecystostomy is a safe and effective treatment for acute cholecystitis in critically ill and/or with multiple comorbidities and unfit for surgery patients",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 26 Early diagnosis of gallbladder perforation and immediate surgical intervention may substantially decrease morbidity and mortality rates",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Acute cholangitis",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 27 Endoscopic retrograde cholangiopancreatography (ERCP) is the treatment of choice for biliary decompression in patients with moderate/severe acute cholangitis",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 28 Percutaneous biliary drainage (PTBD) should be reserved for patients in whom ERCP fails",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 29 Open drainage should only be used in patients for whom endoscopic or percutaneous trans-hepatic drainage is contraindicated or those in whom it has been unsuccessfully performed",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Post-operative peritonitis",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 30 On the basis of the clinical conditions, the size of the abscess and the access to interventional radiology, antibiotics, and/or percutaneous drainage may be suggested to treat post-operative localized intraabdominal abscesses when there are no signs of generalized peritonitis",
+              "level":3,
+              "gor":"_2C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 31 Prompt surgical source control should be performed following diagnosis of post-operative peritonitis. Ineffective control of the septic source is associated with significantly elevated mortality rates",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 32 Patients with tubo-ovarian abscess that does not respond to antibiotics should undergo surgical drainage",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Post-traumatic gastrointestinal perforations",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 33 Early surgical intervention is recommended in case of HVI",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 34 Repair or anastomosis of intestinal injuries should be considered in all patients. A complete diversion of the fecal stream could be considered in colorectal injuries involving all layers in the setting of multiple injuries or comorbid conditions",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Re-laparotomy strategy",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 35 The on-demand re-laparotomy is recommended for patients with severe peritonitis because its ability to streamline healthcare resources reduce overall medical costs and prevent the need for further re-laparotomies",
+              "level":3,
+              "gor":"_2A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 36 The open abdomen may be a viable option for treating physiologically deranged patients with ongoing sepsis, facilitating subsequent exploration and control of abdominal contents, and preventing abdominal compartment syndrome",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 37 Rapid closure with the assistance of negative pressure therapy should be the primary objective in the management of patients with open abdomen, in order to prevent severe morbidity such as fistulae, loss of domain, and massive incisional hernias",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            }
+          ]
+        },
+        {
+          "value":"Antimicrobial therapy",
+          "level":2,
+          "gor":"None",
+          "children":[
+            {
+              "value":"Statement 38 Knowledge of regional/local rates of resistance, when it is available, should be always an essential component of the clinical decision-making process when deciding the empirical treatment of infection",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 39 Predicting the pathogens and potential resistance patterns of a given infection begins by establishing whether the infection is community-acquired or hospital-acquired. For patients with community-acquired intra-abdominal infections (CA-IAIs), agents with a narrower spectrum of activity are preferred. However, in CA-IAI patients at risk for extended-spectrum beta-lactamases (ESBLs) producing Enterobacteriaceae infections, anti-ESBL-producer coverage may be warranted. For patients with hospital-acquired infections (HA-IAIs), antibiotic regimens with broader spectra of activity are preferred",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 40 In critically ill patients, antimicrobial therapy should be started as soon as possible.In these patients, to ensure timely and effective administration of antibiotics, clinicians should always consider the pathophysiological status of the patient as well as the pharmacokinetic properties of the employed antibiotics",
+              "level":3,
+              "gor":"_1B",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 41 In patients with uncomplicated IAI such as uncomplicated appendicitis and uncomplicated cholecystitis, where the source of infection is treated definitively, post-operative antibiotic therapy is not necessary",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 42 In patients with complicated IAI undergoing an adequate source-control procedure, a short course of antibiotic therapy (3–5 days) is always recommended",
+              "level":3,
+              "gor":"_1A",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 43 Patients who have ongoing signs of peritonitis or systemic illness (ongoing infection) beyond 5–7 days of antibiotic treatment should warrant a diagnostic investigation",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 44 The choice of empiric antibiotic regimens in patients with IAI should be based on the clinical condition of the patients, the individual risk for infection by resistant pathogens, and the local resistance epidemiology",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 45 Intra-operative cultures should be always performed in patients with HA-IAs or with CAat risk for resistant pathogens or in critically ill patients. They allow expansion of the antimicrobial regimen if the initial choice is too narrow and to perform a de-escalation if the empirical regimen is too broad. When a microorganism is identified in clinical cultures, antimicrobial susceptibility testing (AST) should always   be performed and reported to guide antibiotic therapy",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 46 Knowledge of mechanisms of secretion of antibiotics into bile may be helpful in designing the optimal therapeutic regimen for patients with biliary-related intra-abdominal infections",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            },
+            {
+              "value":"Statement 47 Empirical antifungal therapy for Candida species is recommended for patients with hospital-acquired IAIs, especially those with recent abdominal surgery or anastomotic leak",
+              "level":3,
+              "gor":"_1C",
+              "children":[
+
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

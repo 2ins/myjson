@@ -1,0 +1,390 @@
+{
+  "value":"Pelvic trauma\n",
+  "level":0,
+  "children":[
+    {
+      "value":"Recommendations for diagnostic tools use in Pelvic Trauma",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"The time between arrival in the Emergency Department and definitive bleeding control should be minimized to improve outcomes of patients with hemodynamically unstable pelvic fractures",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Serum lactate and base deficit represent sensitive diagnostic markers to estimate the extent of traumatic-haemorrhagic shock, and to monitor response to resuscitation",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"The use of Pelvic X-ray and E-FAST in the Emergency Department is recommended in hemodynamic and mechanic unstable patients with pelvic trauma and allows to identify the injuries that require an early pelvic stabilization, an early angiography, and a rapid reductive maneuver, as well as laparotomy",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Patients with pelvic trauma associated to hemodynamic normality or stability should undergo further diagnostic workup with multi phasic CT-scan with intravenous contrast to exclude pelvic hemorrhage",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"CT-scan with 3-Dimensional bones reconstructions reduces the tissue damage during invasive procedures, the risk of neurological disorders after surgical fixation, operative time, and irradiation and the required expertise",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Retrograde urethrogram or/and urethrocystogram with contrast CT-scan is recommended in presence of local perineal clinical hematoma and pelvic disruption at Pelvic X-ray",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Perineal and a rectal digital examination are mandatory in case of high suspicious of rectal injuries",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In case of a positive rectal examination, proctoscopy is recommended",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Role of pelvic binder in hemodynamically unstable pelvic fractures",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"The application of non-invasive external pelvic compression is recommended as an early strategy to stabilize the pelvic ring and decrease the amount of pelvic haemorrhage in the early resuscitation phase.",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Pelvic binders are superior to sheet wrapping in the effectiveness of pelvic haemorrhage control",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Non-invasive external pelvic compression devices should be removed as soon as physiologically justifiable, and replaced by external pelvic fixation, or definitive pelvic stabilization, if indicated",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Pelvic binders should be positioned cautiously in pregnant women and elderly patients",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In a patient with pelvic binder whenever it’s possible, an early transfer from the spine board reduces significantly the skin pressure lesions",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Role of REBOA in hemodynamic unstable pelvic ring injuries",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Resuscitative thoracotomy with aortic crossclamping represents an acute measure of temporary bleeding control for unresponsive patients “in extremis” with exsanguinating traumatic hemorrhage.",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"REBOA technique may provide a valid innovative alternative to aortic cross-clamping",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In hemodynamic unstable patients with suspected pelvic bleeding (systolic blood pressure <90 mmHg or non-responders to direct blood products transfusion), REBOA in zone III should be considered as a bridge to definitive treatment",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"In major trauma patients with suspected pelvic trauma, arterial vascular access via femoral artery (e.g. 5Fr) introducer might be considered as the first step for eventually REBOA placement",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Partial-REBOA or/and intermittent-REBOA should be considered to decrease occlusion time and ischemic insult",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Role of Pre-peritoneal Pelvic Packing in hemodynamically unstable pelvic fractures",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Patients with pelvic fracture-related hemodynamic instability should always be considered for preperitoneal pelvic packing, especially in hospitals with no angiography service",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Direct preperitoneal pelvic packing represents an effective surgical measure of early haemorrhage control in hypotensive patients with bleeding pelvic ring disruptions",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Pelvic packing should be performed in conjunction with pelvic stabilization to maximize the effectiveness of bleeding control",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Patients with pelvic fracture-related hemodynamic instability with persistent bleeding after angiography should always be considered for pre-peritoneal pelvic packing",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Pre-peritoneal pelvic packing is an effective technique in controlling hemorrhage in patients with pelvic fracture-related hemodynamic instability undergone prior anterior/C-clamp fixation",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Role of external pelvic fixation in hemodynamic unstable pelvic ring injuries",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"External pelvic fixation provides rigid temporary pelvic ring stability and serves as an adjunct to early haemorrhage control in hemodynamically unstable pelvic ring disruptions",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"External pelvic fixation is a required adjunct to preperitoneal pelvic packing to provide a stable counterpressure for effective packing",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Anterior “resuscitation frames” through iliac crest or supra-acetabular route provide adequate temporary pelvic stability in APC-II/-III and LC-II/-III injury patterns. A posterior pelvic C-clamp can be indicated for hemorrhage control in “vertical shear” injuries with sacroiliac joint disruptions",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Pelvic C-clamp application is contraindicated in comminuted and transforaminal sacral fractures, iliac wing fractures, and LC-type pelvic ring disruptions",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Role of Angioembolization in hemodynamic unstable pelvic fractures",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Angioembolization is an effective measure of haemorrhage control in patients with arterial sources of retroperitoneal pelvic bleeding",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"CT-scan demonstrating arterial contrast extravasation in the pelvis and the presence of pelvic hematoma are the most important signs predictive of the need for angioembolization",
+          "level":2,
+          "gor":"_1C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"After pelvic stabilization, initiation of aggressive hemostatic resuscitation and exclusion of extra-pelvic sources of blood loss, patients with pelvic fractures and hemodynamic instability or evidence of ongoing bleeding should be considered for pelvic angiography/ angioembolization",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Patients with CT-scan demonstrating arterial contrast extravasation in the pelvis may benefit from pelvic angiography/angioembolization regardless of hemodynamic status",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"After extra-pelvic sources of blood loss have been ruled out, patients with pelvic fractures who have undergone pelvic angiography with or without angioembolization, with persisting signs of ongoing bleeding, should be considered for repeat pelvic angiography/angioembolization",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Elderly patients with pelvic fractures should be considered for pelvic angiography/angioembolization regardless of hemodynamic status",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Indications for definitive surgical fixation of pelvic ring injuries",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Posterior pelvic ring instability represents a surgical indication for anatomic fracture reduction and stable internal fixation. Typical injury patterns requiring surgical fixation include rotationally unstable (APCII, LC-II) and/or vertically unstable pelvic ring disruptions (APC-III, LC-III, VS, CM)",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Selected lateral compression patterns with rotational instability (LC-II, L-III) benefit from adjunctive, temporary external fixation, in conjunction to posterior pelvic ring fixation",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Pubic symphysis plating represents the modality of choice for anterior fixation of “open book” injuries with a pubic symphysis diastasis > 2.5 cm (APC-II, APC-III)",
+          "level":2,
+          "gor":"_1A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"The technical modality of posterior pelvic ring fixation remains a topic of debate, and individual decision-making is largely guided by surgeons’ preference. Spinopelvic fixation has the benefit of immediate weight bearing in patients with vertically unstable sacral fractures",
+          "level":2,
+          "gor":"_2C",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Patients hemodynamically stable and mechanically unstable with no other lesions requiring treatment and with a negative CT-scan can proceed directly to definitive mechanical stabilization",
+          "level":2,
+          "gor":"_2B",
+          "children":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "value":"Ideal time-window to proceed with definitive internal pel- vic fixation",
+      "level":1,
+      "gor":"None",
+      "children":[
+        {
+          "value":"Hemodynamically unstable patients and coagulopathic patients “in extremis” should be successfully resuscitated prior to proceeding with definitive pelvic fracture fixation",
+          "level":2,
+          "gor":"_1B",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Hemodynamically stable patients and “borderline” patients can be safely managed by early definitive pelvic fracture fixation within 24 h post injury",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        },
+        {
+          "value":"Definitive pelvic fracture fixation should be postponed until after day 4 post injury in physiologically deranged politrauma patients",
+          "level":2,
+          "gor":"_2A",
+          "children":[
+
+          ]
+        }
+      ]
+    }
+  ]
+}
