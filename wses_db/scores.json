@@ -1,0 +1,100 @@
+[
+  {
+    "subtitle": "",
+    "id": "SOFA",
+    "type": "SCR",
+    "title": "Sequential Organ Failure Assessment (SOFA) Score",
+    "category": ["ABD"]
+  },
+  {
+    "title": "qSOFA (Quick SOFA) Score for Sepsis",
+    "id": "qSOFA",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["ABD"]
+  },
+  {
+    "title": "Ranson's Criteria for Pancreatitis Mortality - On Admission",
+    "id": "RansonPancreatitisOnAdm",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["ABD"]
+  },
+  {
+    "title": "Ranson's Criteria for Pancreatitis Mortality - 48 hours Admission",
+    "id": "RansonPancreatitis48hIntoAdm",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["ABD"]
+  },
+  {
+    "title": "Forrest's classification for bleeding peptic ulcer",
+    "id": "PEPTIC",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["ABD"]
+  },
+  {
+    "title": "ATLAS Score for Clostridium Difficile Infection",
+    "id": "ATLAS",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["ABD"]
+  },
+  {
+    "title": "PIPAS Severity Score for patients with acute peritonitis",
+    "id": "PIPAS",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["ABD"]
+  },
+  {
+    "title": "Balthazar score for pancreatitis",
+    "id": "Balthazar",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["ABD"]
+  },
+  {
+    "title": "PULP score",
+    "id": "PULP",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["ABD"]
+  },
+  {
+    "title": "BOEY score",
+    "id": "BOEY",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["ABD"]
+  },
+  {
+    "title": "Injury Severity Score (ISS)",
+    "id": "ISS",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["TRA"]
+  },
+  {
+    "title": "Glasgow Coma Score (GCS)",
+    "id": "GCS",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["TRA"]
+  },
+  {
+    "title": "Appendicitis Inflammatory Response (AIR) Score",
+    "id": "AIR",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["SKN"]
+  },
+  {
+    "title": "LRINEC Score for Necrotizing Soft Tissue Infection",
+    "id": "LRINEC",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["SKN"]
+  }
+]

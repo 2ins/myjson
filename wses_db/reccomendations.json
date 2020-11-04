@@ -1,0 +1,138 @@
+[
+    {
+        "subtitle": "",
+        "id": "appendicitis",
+        "type": "REC",
+        "title": "Acute appendicitis",
+        "category": [
+            "ABD"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "intraoperative",
+        "type": "REC",
+        "title": "intraoperative surgical site infection control and prevention",
+        "category": [
+            "SKN"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "open_abdomen_trauma",
+        "type": "REC",
+        "title": "The open abdomen in trauma and non-trauma patients",
+        "category": [
+            "TRA",
+            "ABD"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "duodeno_pancreatic",
+        "type": "REC",
+        "title": "Duodeno-pancreatic and extrahepatic biliary tree trauma",
+        "category": [
+            "TRA"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "abdominal_wall_hernias",
+        "type": "REC",
+        "title": "management of iatrogenic colonoscopy perforation",
+        "category": [
+            "ABD"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "liver",
+        "type": "REC",
+        "title": "Liver Trauma",
+        "category": [
+            "TRA"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "ischemia",
+        "type": "REC",
+        "title": "Acute Mesentric Ischemia",
+        "category": [
+            "ABD"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "pelvic_trauma",
+        "type": "REC",
+        "title": "Pelvic trauma",
+        "category": [
+            "TRA"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "skinsoft",
+        "type": "REC",
+        "title": "Recommendations for the management of skin and soft-tissue infections",
+        "category": [
+            "SKN"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "Clostidrium",
+        "type": "REC",
+        "title": "Clostridioides (Clostridium) difficile infection in surgical patients",
+        "category": [
+            "ABD"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "peptic",
+        "type": "REC",
+        "title": "Perforated peptic ulcer",
+        "category": [
+            "ABD"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "acute_colonic_diverticulitis",
+        "type": "REC",
+        "title": "management diverticulitis",
+        "category": [
+            "ABD"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "severe_acute_pancreatitis",
+        "type": "REC",
+        "title": "emergency repair of complicated abdominal wall hernias",
+        "category": [
+            "ABD"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "kidney",
+        "type": "REC",
+        "title": "Kidney and uro-trauma",
+        "category": [
+            "TRA"
+        ]
+    },
+    {
+        "subtitle": "",
+        "id": "colon_rectal_cancer_emergencies",
+        "type": "REC",
+        "title": "colon and rectal cancer emergencies: obstruction and perforation",
+        "category": [
+            "ABD"
+        ]
+    }
+]
