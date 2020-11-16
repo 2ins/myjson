@@ -1,0 +1,66 @@
+{
+  "score": {
+    "schema": {
+      "type": "ATLAS",
+      "message": ""
+    },
+    "ranges": [
+      {
+        "points": 0,
+        "value": "95.7%",
+        "extras":["0.0%"]
+      },
+      {
+        "points": 1,
+        "value": "93.3%",
+        "extras":["0.0%"]
+      },
+      {
+        "points": 2,
+        "value": "92.7%",
+        "extras":["0.0%"]
+      },
+      {
+        "points": 3,
+        "value": "89.5%",
+        "extras":["3.6%"]
+      },
+      {
+        "points": 4,
+        "value": "81.1%",
+        "extras":["4.2%"]
+      },
+      {
+        "points": 5,
+        "value": "76.1%",
+        "extras":["8.7%"]
+      },
+      {
+        "points": 6,
+        "value": "85.7%",
+        "extras":["10.9%"]
+      },
+      {
+        "points": 7,
+        "value": "50.0%",
+        "extras":["14.3%"]
+      },
+      {
+        "points": 8,
+        "value": "55.6%",
+        "extras":["56.0%"]
+      },
+      {
+        "points": 9,
+        "value": "33.0%",
+        "extras":["56.0%"]
+      },
+      {
+        "points": 10,
+        "value": "33.0%",
+        "extras":["56.0%"]
+      }
+
+    ]
+  }
+}

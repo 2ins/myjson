@@ -1,0 +1,19 @@
+{
+  "elems":[
+
+    {
+      "type":"s",
+      "desc":"Medical illness",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Preoperative shock",
+      "score":1
+    }, {
+      "type":"s",
+      "desc":"Duration of peptic ulcer perforation > 24 h",
+      "score":1
+    }
+  ]
+}

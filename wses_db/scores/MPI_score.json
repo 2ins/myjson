@@ -1,0 +1,25 @@
+{
+  "score": {
+    "schema": {
+      "type": "MPI",
+      "message": ""
+    },
+    "ranges": [
+      {
+        "points": 0,
+        "value": "0%",
+        "extras": ["13.33%"]
+      },
+      {
+        "points": 21,
+        "value": "27.28%",
+        "extras": ["65.71%"]
+      },
+      {
+        "points": 27,
+        "value": "100%",
+        "extras": ["100%"]
+      }
+    ]
+  }
+}

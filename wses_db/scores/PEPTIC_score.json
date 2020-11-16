@@ -1,0 +1,35 @@
+{
+  "score": {
+    "schema": {
+      "type": "PEPTIC",
+      "message": "PEPTIC"
+    },
+    "ranges": [
+      {
+        "points": 1,
+        "value": "1A",
+        "extras": ["Active spurting","55%","11%"]
+      },{
+        "points": 2,
+        "value": "1B",
+        "extras": ["Active oozing","55%","11%"]
+      },{
+        "points": 3,
+        "value": "2A",
+        "extras": ["Non-bleeding visible vessel","43%","11%"]
+      },{
+        "points": 4,
+        "value": "2B",
+        "extras": ["Adherent clot","22%","7%"]
+      },{
+        "points": 5,
+        "value": "2C",
+        "extras": ["Flat pigmented spot","10%","3%"]
+      },{
+        "points": 6,
+        "value": "3",
+        "extras": ["Clean ulcer base","5%","2%"]
+      }
+    ]
+  }
+}

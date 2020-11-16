@@ -1,0 +1,42 @@
+{
+  "score": {
+    "schema": {
+      "type": "SNG",
+      "message": "Initial SOFA Scores ≥ ?p? predict ≥ ?v? mortality"
+    },
+    "ranges": [
+      {
+        "points": 1,
+        "value": "0.0%"
+      },
+      {
+        "points": 3,
+        "value": "6.4%"
+      },
+      {
+        "points": 5,
+        "value": "20.2%"
+      },
+      {
+        "points": 7,
+        "value": "21.5%"
+      },
+      {
+        "points": 9,
+        "value": "33.3%"
+      },
+      {
+        "points": 11,
+        "value": "50.0%"
+      },
+      {
+        "points": 14,
+        "value": "95.2%"
+      },
+      {
+        "points": 11,
+        "value": "95.2%"
+      }
+    ]
+  }
+}

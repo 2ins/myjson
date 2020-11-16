@@ -1,0 +1,18 @@
+{
+  "score": {
+    "schema": {
+      "type": "SNG_NO_MSG",
+      "message": ""
+    },
+    "ranges": [
+      {
+        "points": 0,
+        "value": "Low Score"
+      },
+      {
+        "points": 2,
+        "value": "High Score"
+      }
+    ]
+  }
+}

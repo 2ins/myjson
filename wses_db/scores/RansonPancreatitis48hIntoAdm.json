@@ -1,0 +1,69 @@
+{
+  "elems":[
+    {
+      "type":"t",
+      "title":"On Admission"
+    },
+    {
+      "type":"s",
+      "desc":"WBC > 16k",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Age > 55",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Glucose >200 mg/dL (>10 mmol/L)",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"AST > 250",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"LDH > 350",
+      "score":1
+    },
+
+
+    {
+      "type":"t",
+      "title":"48 Hours Into Admission"
+    },
+    {
+      "type":"s",
+      "desc":"Hct drop >10% from admission",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"BUN increase >5 mg/dL (>1.79 mmol/L) from admission",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Ca <8 mg/dL (<2 mmol/L) within 48 hours",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Arterial pO2 <60 mmHg within 48 hours",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Base deficit (24 - HCO3) >4 mg/dL within 48 hours",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Fluid needs > 6L within 48 hours",
+      "score":1
+    }
+  ]
+}

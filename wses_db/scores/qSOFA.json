@@ -1,0 +1,20 @@
+{
+  "elems":[
+    {
+      "type":"s",
+      "desc":"Altered mental status\nGCS <15",
+      "score":1
+    },
+
+    {
+      "type":"s",
+      "desc":"Respiratory rate ≥22",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Systolic BP ≤100",
+      "score":1
+    }
+  ]
+}

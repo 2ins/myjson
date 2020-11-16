@@ -1,0 +1,80 @@
+{
+  "elems":[
+    {
+      "type":"m",
+      "question":"C-reactive protein",
+      "textpoints":[
+        {
+          "desc":"<15 mg/dL (150 mg/L)",
+          "score":0
+        },
+        {
+          "desc":"≥15 mg/dL (150 mg/L)",
+          "score":4
+        }
+      ]
+    },
+    {
+      "type":"m",
+      "question":"White blood cell count (x10,000/µL)",
+      "textpoints":[
+        {
+          "desc":"<15",
+          "score":0
+        },
+        {
+          "desc":"15-25",
+          "score":1
+        },
+        {
+          "desc":">25",
+          "score":2
+        }
+      ]
+    },
+    {
+      "type":"m",
+      "question":"Sodium (mEq/L)",
+      "textpoints":[
+        {
+          "desc":"≥135",
+          "score":0
+        },
+        {
+          "desc":"<135",
+          "score":2
+        }
+      ]
+    },
+    {
+      "type":"m",
+      "question":"Creatinine",
+      "textpoints":[
+        {
+          "desc":"≤1.6 mg/dL (141 µmol/L)",
+          "score":0
+        },
+        {
+          "desc":">1.6 mg/dL (141 µmol/L)",
+          "score":2
+        }
+
+      ]
+    },
+    {
+      "type":"m",
+      "question":"Glucose",
+      "textpoints":[
+        {
+          "desc":"≤180 mg/dL (10 mmol/L)",
+          "score":0
+        },
+        {
+          "desc":">180 mg/dL (10 mmol/L)",
+          "score":1
+        }
+
+      ]
+    }
+  ]
+}

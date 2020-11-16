@@ -1,0 +1,35 @@
+{
+  "elems":[
+    {
+      "type":"t",
+      "title":"On Admission"
+    },
+    {
+      "type":"s",
+      "desc":"WBC > 16k",
+      "score":1
+    },
+
+    {
+      "type":"s",
+      "desc":"Age > 55",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Glucose >200 mg/dL (>10 mmol/L)",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"AST > 250",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"LDH > 350",
+      "score":1
+    }
+
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "score": {
+    "schema": {
+      "type": "CUSTOM1",
+      "message": ""
+    },
+    "ranges": [
+      {
+        "points": 1,
+        "value": "Out of a possible 75 points"
+      },
+      {
+        "points": 10000,
+        "value": "Maximum Injury Severity Score.\n\nMajor Trauma Sustained."
+      }
+    ]
+  }
+}

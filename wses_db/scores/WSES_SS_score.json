@@ -1,0 +1,23 @@
+{
+  "score": {
+    "schema": {
+      "type": "SNG_NO_MSG",
+      "message": ""
+    },
+    "ranges": [
+      {
+        "points": 0,
+        "value": "Low severity"
+      },
+      {
+        "points": 4,
+        "value": "Intermediate severity"
+      },
+      {
+        "points": 7,
+        "value": "High severity"
+      }
+
+    ]
+  }
+}

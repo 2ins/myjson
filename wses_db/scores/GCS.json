@@ -1,0 +1,97 @@
+{
+  "elems":[
+    {
+      "type":"m",
+      "question":"Best eye response\nIf local injury, edema, or otherwise unable to be assessed, mark \"Not testable (NT)\"",
+      "textpoints":[
+        {
+          "desc":"Spontaneously",
+          "score":4
+        },
+        {
+          "desc":"Eye opening to verbal command",
+          "score":3
+        },
+        {
+          "desc":"Eye opening to pain",
+          "score":2
+        },
+        {
+          "desc":"No eye opening",
+          "score":1
+        },
+        {
+          "desc":"Not testable*",
+          "score":0
+        }
+      ]
+
+    },
+    {
+      "type":"m",
+      "question":"Best verbal response\nIf intubated or otherwise unable to be assessed, mark \"Not testable (NT)\"",
+      "textpoints":[
+        {
+          "desc":"Oriented ",
+          "score":5
+        },
+        {
+          "desc":"Confused",
+          "score":4
+        },
+        {
+          "desc":"Inappropriate words",
+          "score":3
+        },
+        {
+          "desc":"Incomprehensible sounds ",
+          "score":2
+        },
+        {
+          "desc":"No verbal response",
+          "score":1
+        },
+        {
+          "desc":"Not testable/intubated",
+          "score":0
+        }
+      ]
+
+    },
+    {
+      "type":"m",
+      "question":"Best motor response\nIf on sedation/paralysis or unable to be assessed, mark \"Not testable (NT)\"",
+      "textpoints":[
+        {
+          "desc":"Obeys commands",
+          "score":6
+        },
+        {
+          "desc":"Localizes pain",
+          "score":5
+        },
+        {
+          "desc":"Withdrawal from pain",
+          "score":4
+        },
+        {
+          "desc":"Flexion to pain",
+          "score":3
+        },
+        {
+          "desc":"Extension to pain",
+          "score":2
+        },
+        {
+          "desc":"No motor response",
+          "score":1
+        },
+        {
+          "desc":"Not testable*",
+          "score":0
+        }
+      ]
+
+    }
+  ]
+}

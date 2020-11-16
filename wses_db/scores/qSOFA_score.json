@@ -1,0 +1,22 @@
+{
+  "score": {
+    "schema": {
+      "type": "SNG_NO_MSG",
+      "message": ""
+    },
+    "ranges": [
+      {
+        "points": 0,
+        "value": ""
+      },
+      {
+        "points": 1,
+        "value": "Not high risk for in-hospital mortality"
+      },
+      {
+        "points": 3,
+        "value": "High risk for in-hospital mortality (3- to 14-fold increase)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "elems":[
+    {
+      "type":"s",
+      "desc":"Age >50 years",
+      "score":5
+    },
+    {
+      "type":"s",
+      "desc":"Female sex",
+      "score":5
+    },
+    {
+      "type":"s",
+      "desc":"Organ failure",
+      "score":7
+    },
+    {
+      "type":"s",
+      "desc":"Malignancy",
+      "score":4
+    },
+    {
+      "type":"s",
+      "desc":"Origin of sepsis not colonic",
+      "score":4
+    },
+    {
+      "type":"s",
+      "desc":"Diffuse generalized peritonitis",
+      "score":6
+    },
+    {
+      "type":"s",
+      "desc":"Preoperative duration of peritonitis >24h",
+      "score":4
+    },
+    {
+      "type":"m",
+      "question":"Intraperitoneal exudates",
+      "textpoints":[
+        {
+          "desc":"Clear",
+          "score":0
+        },
+        {
+          "desc":"Cloudy, purulent",
+          "score":6
+        },
+        {
+          "desc":"Fecal",
+          "score":12
+        }
+      ]
+    }
+
+  ]
+}

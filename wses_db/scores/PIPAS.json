@@ -1,0 +1,41 @@
+{
+  "elems":[
+
+    {
+      "type":"s",
+      "desc":"Age (years)\n80 or more",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Malignancy",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Severe chronic kidney disease",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Respiratory rate ≥ 22 breaths/min",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Systolic blood pressure < 100 mmHg",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Blood oxygen saturation level (SpO2) < 90% in air",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"AVPU responsiveness scale full alert",
+      "score":1
+    }
+
+  ]
+}

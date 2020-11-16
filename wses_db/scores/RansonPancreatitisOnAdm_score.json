@@ -1,0 +1,21 @@
+{
+  "score": {
+    "schema": {
+      "type": "SNG_NO_MSG",
+      "message": ""
+    },
+    "ranges": [
+
+      {
+        "points": 2,
+        "value": "Severe pancreatitis unlikely."
+      },
+      {
+        "points": 5,
+        "value": "Severe pancreatitis likely. Consider ICU admission."
+      }
+
+    ]
+
+  }
+}

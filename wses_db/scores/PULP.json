@@ -1,0 +1,55 @@
+{
+  "elems":[
+
+    {
+      "type":"s",
+      "desc":"Age > 65",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Comorbid active malign disease or AIDS",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Comorbid liver cirrhosis",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Shock",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Perforation time on admission >24",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"Serum creatinine >1.47 mg/dl",
+      "score":2
+    },
+    {
+      "type":"s",
+      "desc":"ASA 2",
+      "score":1
+    },
+    {
+      "type":"s",
+      "desc":"ASA 3",
+      "score":3
+    },
+    {
+      "type":"s",
+      "desc":"ASA 4",
+      "score":5
+    },
+    {
+      "type":"s",
+      "desc":"ASA 5",
+      "score":7
+    }
+  ]
+}

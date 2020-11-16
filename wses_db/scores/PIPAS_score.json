@@ -1,0 +1,18 @@
+{
+  "score": {
+    "schema": {
+      "type": "SNG_NO_MSG",
+      "message": ""
+    },
+    "ranges": [
+      {
+        "points": 0,
+        "value": "Daje"
+      },
+      {
+        "points": 4,
+        "value": "Belinda"
+      }
+    ]
+  }
+}

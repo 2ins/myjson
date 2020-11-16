@@ -1,0 +1,21 @@
+{
+  "score": {
+    "schema": {
+      "type": "SNG_NO_MSG",
+      "message": ""
+    },
+    "ranges": [
+      {
+        "points": 0,
+        "value": "If high suspicion for necrotizing fasciitis through clinical history and physical exam, do not calculate a LRINEC score and go straight to operative debridement.\n\nConsider IV antibiotics and serial labs to monitor response to treatment. Scores <6 were low risk — but not no risk — for necrotizing soft tissue infections."
+      },
+      {
+        "points": 6,
+        "value": "If high suspicion for necrotizing fasciitis through clinical history and physical exam, do not calculate a LRINEC score and go straight to operative debridement.\n\nScores of 6 had a PPV of 92% and NPV of 96% for NSTIs. Intermediate Risk for Necrotizing Soft Tissue Infection.\n\nConsider urgent MRI, frozen section biopsy or finger test (manual probing of area in question under local anesthesia). If positive, emergent operative debridement. If negative, IV antibiotics, close observation, serial labs."
+      },
+      {
+        "points": 8,
+        "value": "If high suspicion for necrotizing fasciitis through clinical history and physical exam, do not calculate a LRINEC score and go straight to operative debridement.\n\nHigh Risk for Necrotizing Soft Tissue Infection.\nScores of 8 had a PPV of 93.4% for NSTIs.\nWork-up as above or emergent operative debridement."      }
+    ]
+  }
+}

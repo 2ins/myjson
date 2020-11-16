@@ -1,0 +1,95 @@
+{
+  "elems":[
+
+    {
+      "type":"t",
+      "title":"Clinical condition at the admission"
+    },
+    {
+      "type":"s",
+      "desc":"Severe sepsis (acute organ dysfunction) at the\nadmission",
+      "score":3
+    },
+    {
+      "type":"s",
+      "desc":"Septic shock (acute circulatory failure characterized\nby persistent arterial hypotension. It always requires\nvasopressor agents) at the admission",
+      "score":5
+    },
+
+
+
+
+
+
+
+    {
+      "type":"t",
+      "title":"Origin of the IAIs"
+    },
+    {
+      "type":"s",
+      "desc":"Colonic non-diverticular perforation peritonitis",
+      "score":2
+    },
+    {
+      "type":"s",
+      "desc":"Small bowel perforation peritonitis",
+      "score":2
+    },
+    {
+      "type":"s",
+      "desc":"Diverticular diffuse peritonitis",
+      "score":2
+    },
+    {
+      "type":"s",
+      "desc":"Post-traumatic diffuse peritonitis",
+      "score":2
+    },
+    {
+      "type":"s",
+      "desc":"Post-operative diffuse peritonitis",
+      "score":3
+    },
+
+
+
+
+
+
+    {
+      "type":"t",
+      "title":"Delay in source control"
+    },
+    {
+      "type":"s",
+      "desc":"Delayed initial intervention (a delay exceeding 24 hours)",
+      "score":2
+    },
+
+
+    {
+      "type":"t",
+      "title":"Risk factors"
+    },
+    {
+      "type":"s",
+      "desc":"Age 70-80 years",
+      "score":1
+    },
+    {
+      "type":"s",
+      "title":"Age>80",
+      "score":2
+    },
+    {
+      "type":"t",
+      "title":"Immunosuppression"
+    },
+    {
+      "type":"s",
+      "desc":"Immunosuppression (chronic glucocorticoids,\nimmunosuppresant agents, chemotherapy, lymphatic\ndiseases, virus)",
+      "score":3
+    }
+  ]
+}

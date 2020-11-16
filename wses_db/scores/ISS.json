@@ -1,0 +1,235 @@
+{
+  "elems":[
+    {
+      "type":"m",
+      "question":"Head and neck worst injury?",
+      "textpoints":[
+        {
+          "desc":"No injury",
+          "score":0
+        },
+        {
+          "desc":"Minor",
+          "score":1
+        },
+        {
+          "desc":"Moderate",
+          "score":2
+        },
+        {
+          "desc":"Serious",
+          "score":3
+        },
+        {
+          "desc":"Severe",
+          "score":4
+        },
+        {
+          "desc":"Critical",
+          "score":5
+        },
+        {
+          "desc":"Unsurvivable",
+          "score":6
+        }
+      ],
+      "selected":0
+    },
+
+
+
+    {
+      "type":"m",
+      "question":"Face worst injury?",
+      "textpoints":[
+        {
+          "desc":"No injury",
+          "score":0
+        },
+        {
+          "desc":"Minor",
+          "score":1
+        },
+        {
+          "desc":"Moderate",
+          "score":2
+        },
+        {
+          "desc":"Serious",
+          "score":3
+        },
+        {
+          "desc":"Severe",
+          "score":4
+        },
+        {
+          "desc":"Critical",
+          "score":5
+        },
+        {
+          "desc":"Unsurvivable",
+          "score":6
+        }
+      ],
+      "selected":0
+    },
+
+
+
+
+    {
+      "type":"m",
+      "question":"Chest worst injury?",
+      "textpoints":[
+        {
+          "desc":"No injury",
+          "score":0
+        },
+        {
+          "desc":"Minor",
+          "score":1
+        },
+        {
+          "desc":"Moderate",
+          "score":2
+        },
+        {
+          "desc":"Serious",
+          "score":3
+        },
+        {
+          "desc":"Severe",
+          "score":4
+        },
+        {
+          "desc":"Critical",
+          "score":5
+        },
+        {
+          "desc":"Unsurvivable",
+          "score":6
+        }
+      ],
+      "selected":0
+    },
+
+
+
+    {
+      "type":"m",
+      "question":"Abdomen worst injury?",
+      "textpoints":[
+        {
+          "desc":"No injury",
+          "score":0
+        },
+        {
+          "desc":"Minor",
+          "score":1
+        },
+        {
+          "desc":"Moderate",
+          "score":2
+        },
+        {
+          "desc":"Serious",
+          "score":3
+        },
+        {
+          "desc":"Severe",
+          "score":4
+        },
+        {
+          "desc":"Critical",
+          "score":5
+        },
+        {
+          "desc":"Unsurvivable",
+          "score":6
+        }
+      ],
+      "selected":0
+    },
+
+
+
+
+    {
+      "type":"m",
+      "question":"Extremity (including pelvis) worst injury?",
+      "textpoints":[
+        {
+          "desc":"No injury",
+          "score":0
+        },
+        {
+          "desc":"Minor",
+          "score":1
+        },
+        {
+          "desc":"Moderate",
+          "score":2
+        },
+        {
+          "desc":"Serious",
+          "score":3
+        },
+        {
+          "desc":"Severe",
+          "score":4
+        },
+        {
+          "desc":"Critical",
+          "score":5
+        },
+        {
+          "desc":"Unsurvivable",
+          "score":6
+        }
+      ],
+      "selected":0
+    },
+
+
+
+
+    {
+      "type":"m",
+      "question":"External worst injury?",
+      "textpoints":[
+        {
+          "desc":"No injury",
+          "score":0
+        },
+        {
+          "desc":"Minor",
+          "score":1
+        },
+        {
+          "desc":"Moderate",
+          "score":2
+        },
+        {
+          "desc":"Serious",
+          "score":3
+        },
+        {
+          "desc":"Severe",
+          "score":4
+        },
+        {
+          "desc":"Critical",
+          "score":5
+        },
+        {
+          "desc":"Unsurvivable",
+          "score":6
+        }
+      ],
+      "selected":0
+    }
+  ]
+
+
+
+}

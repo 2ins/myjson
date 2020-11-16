@@ -1,0 +1,33 @@
+{
+  "score": {
+    "schema": {
+      "type": "SNG",
+      "message": "Ranson’s Criteria (Cumulative)\n\n?v?% predicted mortality."
+    },
+    "ranges": [
+
+      {
+        "points": 0,
+        "value": ""
+      },
+      {
+        "points": 1,
+        "value": "1"
+      },
+      {
+        "points": 3,
+        "value": "15"
+      },
+      {
+        "points": 5,
+        "value": "40"
+      },
+      {
+        "points": 7,
+        "value": "100"
+      }
+
+    ]
+
+  }
+}

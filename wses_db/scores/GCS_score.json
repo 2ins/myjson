@@ -1,0 +1,10 @@
+{
+  "score": {
+    "schema": {
+      "type": "GCS",
+      "message": ""
+    },
+    "ranges": [
+    ]
+  }
+}

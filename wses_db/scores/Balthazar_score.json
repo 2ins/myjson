@@ -1,0 +1,23 @@
+{
+  "score": {
+    "schema": {
+      "type": "SNG_NO_MSG",
+      "message": ""
+    },
+    "ranges": [
+      {
+        "points": 0,
+        "value": "Mild acute pancreatitis"
+      },
+      {
+        "points": 4,
+        "value": "Moderate acute pancreatitis"
+      },
+      {
+        "points": 7,
+        "value": "Severe acute pancreatitis"
+      }
+    ]
+  }
+}
+
