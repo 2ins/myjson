@@ -1,1 +1,86 @@
-{"elems":[{"textpoints":[{"score":"<60","desc":0},{"score":"60-79","desc":1},{"score":"≥80","desc":2}],"question":"Age, years","type":"m"},{"score":2,"type":"s","desc":"Treatment with systemic antibiotics during C. diff infection therapy (≥1 day duration)"},{"textpoints":[{"score":"<16,000","desc":0},{"score":"16,000-25,000","desc":1},{"score":">25,000","desc":2}],"question":"Leukocyte count, cells\/µL","type":"m"},{"textpoints":[{"score":">3.5 g\/dL (>35\u2009g\/L)","desc":0},{"score":"2.6-3.5 g\/dL (26-35\u2009g\/L)","desc":1},{"score":"<2.6 g\/dL (<26\u2009g\/L)","desc":2}],"question":"Serum albumin","type":"m"},{"textpoints":[{"score":"≤1.3 mg\/dL (≤120\u2009μmol\/L)","desc":0},{"score":"1.4-2.0 mg\/dL (121-179\u2009μmol\/L))","desc":1},{"score":"≥2.1 mg\/dL (≥180\u2009μmol\/L)","desc":2}],"question":"Serum creatinine (as a measure of renal function)","type":"m"},{"score":1,"type":"s","desc":"io"}]}
+{
+    "elems":[
+       {
+          "textpoints":[
+             {
+                "desc":"<60",
+                "score":0
+             },
+             {
+                "desc":"60-79",
+                "score":1
+             },
+             {
+                "desc":"≥80",
+                "score":2
+             }
+          ],
+          "question":"Age, years",
+          "type":"m"
+       },
+       {
+          "score":2,
+          "type":"s",
+          "desc":"Treatment with systemic antibiotics during C. diff infection therapy (≥1 day duration)"
+       },
+       {
+          "textpoints":[
+             {
+                "desc":"<16,000",
+                "score":0
+             },
+             {
+                "desc":"16,000-25,000",
+                "score":1
+             },
+             {
+                "desc":">25,000",
+                "score":2
+             }
+          ],
+          "question":"Leukocyte count, cells\/µL",
+          "type":"m"
+       },
+       {
+          "textpoints":[
+             {
+                "desc":">3.5 g\/dL (>35\u2009g\/L)",
+                "score":0
+             },
+             {
+                "desc":"2.6-3.5 g\/dL (26-35\u2009g\/L)",
+                "score":1
+             },
+             {
+                "desc":"<2.6 g\/dL (<26\u2009g\/L)",
+                "score":2
+             }
+          ],
+          "question":"Serum albumin",
+          "type":"m"
+       },
+       {
+          "textpoints":[
+             {
+                "desc":"≤1.3 mg\/dL (≤120\u2009μmol\/L)",
+                "score":0
+             },
+             {
+                "desc":"1.4-2.0 mg\/dL (121-179\u2009μmol\/L))",
+                "score":1
+             },
+             {
+                "desc":"≥2.1 mg\/dL (≥180\u2009μmol\/L)",
+                "score":2
+             }
+          ],
+          "question":"Serum creatinine (as a measure of renal function)",
+          "type":"m"
+       },
+       {
+          "score":1,
+          "type":"s",
+          "desc":"io"
+       }
+    ]
+ }
