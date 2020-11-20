@@ -1,1 +1,39 @@
-[{"textpoints":[{"score":"Active spurting","desc":1},{"score":"Active oozing","desc":2},{"score":"Non-bleeding visible vessel","desc":3},{"score":"Adherent clot","desc":4},{"score":"Flat pigmented spot","desc":5},{"score":"Clean ulcer base","desc":6}],"question":"Endoscopy finding","type":"m"},{"score":1,"type":"s","desc":"test"}]
+{
+    "elems":[
+    {
+       "textpoints":[
+          {
+             "desc":"Active spurting",
+             "score":1
+          },
+          {
+             "desc":"Active oozing",
+             "score":2
+          },
+          {
+             "desc":"Non-bleeding visible vessel",
+             "score":3
+          },
+          {
+             "desc":"Adherent clot",
+             "score":4
+          },
+          {
+             "desc":"Flat pigmented spot",
+             "score":5
+          },
+          {
+             "desc":"Clean ulcer base",
+             "score":6
+          }
+       ],
+       "question":"Endoscopy finding",
+       "type":"m"
+    },
+    {
+       "score":1,
+       "type":"s",
+       "desc":"test"
+    }
+    ]   
+}
